@@ -1,4 +1,6 @@
 import streamlit as st
+import feedparser
+from datetime import datetime
 import pandas as pd
 import folium
 from streamlit_folium import st_folium
@@ -121,6 +123,46 @@ with map_col:
 
 with report_col:
     st.markdown("### Intelligence report")
+st.markdown("### 📡 Live intelligence feed")
+    feeds = [
+        "https://kyivindependent.com/feed/",
+        "https://www.pravda.com.ua/rss/view_news/",
+    ]
+    drone_keywords = ["shahed", "drone", "uav", "missile", "attack", "strike", "drones", "ballistic"]
+    drone_types = {
+        "shahed": "🔴 Shahed",
+        "lancet": "🟠 Lancet",
+        "fpv": "🟡 FPV",
+        "orlan": "🟡 Orlan",
+        "iskander": "🔴 Ballistic",
+        "kalibr": "🔴 Kalibr",
+        "missile": "🔴 Missile",
+        "drone": "⚪ UAV",
+    }
+    articles = []
+    for url in feeds:
+        try:
+            feed = feedparser.parse(url)
+            for entry in feed.entries[:20]:
+                title = entry.get("title", "").lower()
+                if any(k in title for k in drone_keywords):
+                    dtype = "⚪ UAV"
+                    for k, v in drone_types.items():
+                        if k in title:
+                            dtype = v
+                            break
+                    articles.append({
+                        "title": entry.get("title", ""),
+                        "type": dtype,
+                        "time": entry.get("published", "")[:16]
+                    })
+        except:
+            pass
+    if articles:
+        for a in articles[:6]:
+            st.markdown(f'<div class="metric-box" style="margin:4px 0"><span style="font-size:11px">{a["type"]} · {a["time"]}</span><br><span style="font-size:12px">{a["title"][:80]}</span></div>', unsafe_allow_html=True)
+    else:
+        st.markdown('<div class="metric-box"><small>Fetching live feed...</small></div>', unsafe_allow_html=True)
     st.markdown(f'<div class="metric-box threat-high"><b>THREAT ASSESSMENT</b><br><br>Direction: <b>{direction}</b><br>Time: <b>{hour:02d}:00</b><br>Drones: <b>{drone_count}</b><br>Type: <b>{"Night raid" if hour < 6 or hour > 21 else "Daylight strike"}</b></div>', unsafe_allow_html=True)
     st.markdown("**Target probability breakdown**")
     for target, pct in sorted(distribution.items(), key=lambda x: -x[1]):
