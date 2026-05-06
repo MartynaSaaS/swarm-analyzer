@@ -1,0 +1,201 @@
+date,direction,target,drone_count,hour
+2024-01-01,West,Fuel depot,22,9
+2024-01-01,Northeast,Railway hub,37,14
+2024-01-01,East,Military base,41,10
+2024-01-03,Northwest,Fuel depot,9,13
+2024-01-04,Northwest,Bridge,13,22
+2024-01-08,North,Military base,12,13
+2024-01-10,Northwest,Power station,37,1
+2024-01-11,Northeast,Railway hub,20,18
+2024-01-15,Northwest,Power station,27,10
+2024-01-21,North,Bridge,25,6
+2024-01-21,Northwest,Power station,30,23
+2024-01-24,West,Railway hub,17,9
+2024-01-24,Northeast,Bridge,18,15
+2024-01-28,Northwest,Power station,9,1
+2024-01-29,Northeast,Railway hub,17,1
+2024-01-30,Northwest,Power station,40,23
+2024-01-30,West,Railway hub,6,18
+2024-01-31,Northwest,Railway hub,13,12
+2024-01-31,North,Railway hub,17,2
+2024-02-03,Northeast,Railway hub,16,18
+2024-02-05,West,Military base,20,13
+2024-02-05,West,Railway hub,35,20
+2024-02-06,East,Military base,35,7
+2024-02-06,Northwest,Railway hub,17,8
+2024-02-08,Northwest,Railway hub,31,17
+2024-02-08,Northeast,Military base,33,8
+2024-02-10,North,Military base,8,23
+2024-02-16,Northwest,Power station,17,21
+2024-02-17,West,Fuel depot,17,3
+2024-02-19,Northeast,Bridge,30,11
+2024-02-20,North,Military base,16,20
+2024-02-21,East,Military base,27,8
+2024-02-21,Northwest,Military base,7,17
+2024-02-22,Northeast,Railway hub,22,21
+2024-02-25,Northwest,Power station,18,6
+2024-02-26,Northwest,Fuel depot,12,20
+2024-02-28,Northeast,Power station,37,8
+2024-02-28,West,Military base,13,9
+2024-03-03,North,Bridge,32,4
+2024-03-14,Northeast,Railway hub,19,4
+2024-03-16,Northeast,Railway hub,30,4
+2024-03-17,North,Military base,37,1
+2024-03-17,Northwest,Power station,20,4
+2024-03-18,Northeast,Railway hub,34,1
+2024-03-19,Northwest,Power station,34,22
+2024-03-21,Northwest,Fuel depot,18,5
+2024-03-22,Northeast,Railway hub,33,14
+2024-03-23,Northwest,Fuel depot,24,13
+2024-03-24,Northwest,Railway hub,26,11
+2024-03-25,Northeast,Military base,19,16
+2024-03-25,Northeast,Railway hub,32,4
+2024-03-26,East,Military base,29,15
+2024-04-05,East,Power station,7,19
+2024-04-06,Northwest,Railway hub,18,18
+2024-04-09,Northwest,Power station,21,7
+2024-04-11,East,Bridge,7,18
+2024-04-14,West,Railway hub,20,17
+2024-04-18,Northeast,Railway hub,37,23
+2024-04-20,Northwest,Power station,24,3
+2024-04-21,Northwest,Power station,17,16
+2024-04-22,Northeast,Railway hub,11,16
+2024-04-23,Northeast,Power station,28,22
+2024-04-27,Northwest,Bridge,40,7
+2024-04-28,West,Bridge,21,22
+2024-04-30,North,Military base,22,7
+2024-05-01,East,Railway hub,13,5
+2024-05-02,North,Railway hub,13,9
+2024-05-03,West,Power station,29,15
+2024-05-05,West,Fuel depot,13,14
+2024-05-06,Northeast,Railway hub,17,2
+2024-05-06,North,Power station,15,0
+2024-05-08,Northeast,Fuel depot,17,3
+2024-05-11,East,Fuel depot,26,5
+2024-05-12,Northwest,Power station,24,8
+2024-05-14,Northwest,Bridge,40,13
+2024-05-14,Northwest,Power station,13,23
+2024-05-14,Northwest,Military base,35,5
+2024-05-15,Northeast,Fuel depot,28,4
+2024-05-16,Northwest,Fuel depot,3,9
+2024-05-16,Northeast,Railway hub,13,22
+2024-05-19,Northeast,Railway hub,35,17
+2024-05-20,West,Power station,18,7
+2024-05-21,Northeast,Railway hub,38,0
+2024-05-21,North,Fuel depot,5,0
+2024-05-30,Northeast,Fuel depot,30,5
+2024-06-02,Northeast,Bridge,35,9
+2024-06-04,Northwest,Bridge,8,7
+2024-06-05,Northeast,Military base,39,19
+2024-06-05,Northeast,Railway hub,17,7
+2024-06-06,North,Power station,41,23
+2024-06-08,Northwest,Power station,39,21
+2024-06-09,Northwest,Power station,30,19
+2024-06-10,Northeast,Railway hub,19,6
+2024-06-10,Northeast,Fuel depot,7,0
+2024-06-12,Northwest,Power station,37,2
+2024-06-14,Northwest,Power station,10,12
+2024-06-14,Northeast,Railway hub,18,2
+2024-06-16,Northwest,Power station,16,14
+2024-06-17,North,Power station,20,2
+2024-06-18,Northwest,Railway hub,42,10
+2024-06-18,Northwest,Power station,37,14
+2024-06-18,Northeast,Railway hub,4,3
+2024-06-18,Northwest,Military base,9,14
+2024-06-19,Northeast,Power station,29,21
+2024-06-19,Northwest,Power station,38,17
+2024-06-24,Northwest,Power station,16,21
+2024-06-25,North,Power station,41,8
+2024-06-27,Northwest,Power station,7,7
+2024-06-30,Northeast,Railway hub,38,13
+2024-07-04,Northwest,Power station,22,7
+2024-07-04,Northwest,Power station,42,15
+2024-07-07,Northwest,Fuel depot,33,17
+2024-07-10,West,Power station,13,17
+2024-07-13,Northwest,Fuel depot,20,13
+2024-07-13,Northwest,Power station,14,19
+2024-07-14,Northeast,Railway hub,27,21
+2024-07-15,West,Railway hub,34,12
+2024-07-15,Northwest,Bridge,15,19
+2024-07-18,North,Bridge,29,17
+2024-07-20,East,Fuel depot,40,18
+2024-07-23,Northeast,Railway hub,26,14
+2024-07-24,Northeast,Fuel depot,38,1
+2024-07-25,North,Military base,10,18
+2024-07-28,West,Power station,31,22
+2024-07-29,Northwest,Railway hub,5,10
+2024-07-31,Northwest,Fuel depot,33,15
+2024-08-03,Northwest,Power station,27,18
+2024-08-04,Northwest,Power station,14,8
+2024-08-07,Northeast,Power station,11,14
+2024-08-12,Northeast,Military base,10,14
+2024-08-13,West,Fuel depot,24,5
+2024-08-13,Northwest,Power station,7,22
+2024-08-18,Northwest,Bridge,31,9
+2024-08-20,North,Bridge,21,13
+2024-08-21,West,Railway hub,29,20
+2024-08-23,East,Railway hub,12,13
+2024-08-25,Northwest,Power station,39,19
+2024-08-28,Northwest,Railway hub,17,6
+2024-08-28,North,Railway hub,36,20
+2024-08-28,Northeast,Military base,25,13
+2024-08-30,West,Bridge,10,18
+2024-08-30,East,Fuel depot,18,15
+2024-08-31,West,Bridge,34,14
+2024-09-01,East,Bridge,10,2
+2024-09-04,Northeast,Railway hub,32,13
+2024-09-07,West,Bridge,19,1
+2024-09-07,Northwest,Railway hub,9,13
+2024-09-08,East,Railway hub,9,0
+2024-09-10,Northeast,Fuel depot,23,5
+2024-09-18,Northwest,Fuel depot,33,23
+2024-09-20,Northwest,Power station,42,10
+2024-09-23,North,Fuel depot,37,21
+2024-09-27,Northwest,Military base,19,17
+2024-09-27,East,Military base,3,21
+2024-09-28,Northwest,Railway hub,13,1
+2024-09-29,Northwest,Power station,11,4
+2024-10-01,Northeast,Railway hub,10,12
+2024-10-01,Northeast,Fuel depot,14,6
+2024-10-03,Northwest,Power station,11,23
+2024-10-03,North,Railway hub,3,2
+2024-10-05,Northwest,Power station,22,19
+2024-10-06,Northwest,Power station,8,18
+2024-10-08,West,Fuel depot,24,11
+2024-10-10,Northwest,Railway hub,12,8
+2024-10-10,Northwest,Military base,21,22
+2024-10-11,Northeast,Railway hub,34,4
+2024-10-13,Northeast,Railway hub,41,10
+2024-10-14,Northwest,Fuel depot,3,3
+2024-10-16,West,Power station,5,11
+2024-10-21,East,Power station,27,15
+2024-10-22,East,Power station,15,8
+2024-10-23,Northeast,Railway hub,34,4
+2024-10-24,Northeast,Fuel depot,19,1
+2024-10-26,Northwest,Power station,30,20
+2024-10-28,Northwest,Power station,36,19
+2024-11-01,Northwest,Fuel depot,7,12
+2024-11-04,Northeast,Railway hub,17,15
+2024-11-06,Northwest,Fuel depot,41,19
+2024-11-06,Northwest,Fuel depot,23,14
+2024-11-09,East,Military base,35,13
+2024-11-13,Northwest,Bridge,8,13
+2024-11-16,West,Power station,22,20
+2024-11-17,North,Bridge,42,11
+2024-11-18,Northwest,Power station,6,4
+2024-11-22,Northwest,Power station,20,16
+2024-11-23,Northwest,Military base,38,7
+2024-11-24,East,Bridge,35,12
+2024-11-28,West,Fuel depot,37,13
+2024-11-28,East,Bridge,7,20
+2024-11-29,Northwest,Bridge,20,19
+2024-12-01,Northeast,Fuel depot,34,12
+2024-12-04,Northeast,Railway hub,15,13
+2024-12-05,Northeast,Fuel depot,9,4
+2024-12-09,Northeast,Railway hub,15,11
+2024-12-15,Northwest,Power station,7,19
+2024-12-21,Northwest,Power station,12,22
+2024-12-22,Northwest,Railway hub,36,14
+2024-12-22,Northeast,Fuel depot,21,17
+2024-12-23,Northwest,Power station,34,3
+2024-12-28,Northwest,Power station,37,4
