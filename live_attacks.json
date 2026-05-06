@@ -1,0 +1,3002 @@
+[
+  {
+    "date": "2024-06-02",
+    "title": "Russian Ballistic attack on Poltava",
+    "city": "Poltava",
+    "direction": "Northeast",
+    "drone_type": "Ballistic",
+    "drone_count": 5,
+    "lat": 49.34303420549456,
+    "lon": 34.38086475519035
+  },
+  {
+    "date": "2024-06-05",
+    "title": "Russian FPV attack on Kharkiv",
+    "city": "Kharkiv",
+    "direction": "Northeast",
+    "drone_type": "FPV",
+    "drone_count": 6,
+    "lat": 50.061012410412246,
+    "lon": 36.46672563594162
+  },
+  {
+    "date": "2024-06-05",
+    "title": "Russian Shahed attack on Kyiv",
+    "city": "Kyiv",
+    "direction": "Northwest",
+    "drone_type": "Shahed",
+    "drone_count": 26,
+    "lat": 50.59386799393576,
+    "lon": 30.227980520406412
+  },
+  {
+    "date": "2024-06-11",
+    "title": "Russian Shahed attack on Odesa",
+    "city": "Odesa",
+    "direction": "South",
+    "drone_type": "Shahed",
+    "drone_count": 37,
+    "lat": 46.19105155488382,
+    "lon": 30.834476359162075
+  },
+  {
+    "date": "2024-06-11",
+    "title": "Russian Ballistic attack on Dnipro",
+    "city": "Dnipro",
+    "direction": "East",
+    "drone_type": "Ballistic",
+    "drone_count": 7,
+    "lat": 48.644356134665195,
+    "lon": 35.311473504099546
+  },
+  {
+    "date": "2024-06-12",
+    "title": "Russian Missile attack on Odesa",
+    "city": "Odesa",
+    "direction": "South",
+    "drone_type": "Missile",
+    "drone_count": 5,
+    "lat": 46.75502756147275,
+    "lon": 30.942533234914478
+  },
+  {
+    "date": "2024-06-12",
+    "title": "Russian Shahed attack on Mykolaiv",
+    "city": "Mykolaiv",
+    "direction": "South",
+    "drone_type": "Shahed",
+    "drone_count": 36,
+    "lat": 46.99449845400106,
+    "lon": 32.22384022561445
+  },
+  {
+    "date": "2024-06-13",
+    "title": "Russian Shahed attack on Kharkiv",
+    "city": "Kharkiv",
+    "direction": "Northeast",
+    "drone_type": "Shahed",
+    "drone_count": 26,
+    "lat": 50.224849869004366,
+    "lon": 35.96382964199923
+  },
+  {
+    "date": "2024-06-13",
+    "title": "Russian Shahed attack on Kyiv",
+    "city": "Kyiv",
+    "direction": "North",
+    "drone_type": "Shahed",
+    "drone_count": 21,
+    "lat": 50.618545854370396,
+    "lon": 30.58199278033472
+  },
+  {
+    "date": "2024-06-13",
+    "title": "Russian Ballistic attack on Poltava",
+    "city": "Poltava",
+    "direction": "Northeast",
+    "drone_type": "Ballistic",
+    "drone_count": 7,
+    "lat": 49.52491897141653,
+    "lon": 34.39897009642239
+  },
+  {
+    "date": "2024-06-14",
+    "title": "Russian Shahed attack on Kyiv",
+    "city": "Kyiv",
+    "direction": "North",
+    "drone_type": "Shahed",
+    "drone_count": 38,
+    "lat": 50.642666990383475,
+    "lon": 30.466270492282497
+  },
+  {
+    "date": "2024-06-16",
+    "title": "Russian Shahed attack on Odesa",
+    "city": "Odesa",
+    "direction": "South",
+    "drone_type": "Shahed",
+    "drone_count": 31,
+    "lat": 46.43681279117344,
+    "lon": 30.516113825768816
+  },
+  {
+    "date": "2024-06-16",
+    "title": "Russian Shahed attack on Kyiv",
+    "city": "Kyiv",
+    "direction": "Northwest",
+    "drone_type": "Shahed",
+    "drone_count": 27,
+    "lat": 50.38813071254471,
+    "lon": 30.688893582556283
+  },
+  {
+    "date": "2024-06-17",
+    "title": "Russian Shahed attack on Kharkiv",
+    "city": "Kharkiv",
+    "direction": "Northeast",
+    "drone_type": "Shahed",
+    "drone_count": 35,
+    "lat": 50.07377220298407,
+    "lon": 35.95188024197654
+  },
+  {
+    "date": "2024-06-17",
+    "title": "Russian Shahed attack on Mykolaiv",
+    "city": "Mykolaiv",
+    "direction": "South",
+    "drone_type": "Shahed",
+    "drone_count": 42,
+    "lat": 47.060134173793536,
+    "lon": 32.12428955541843
+  },
+  {
+    "date": "2024-06-18",
+    "title": "Russian Shahed attack on Kyiv",
+    "city": "Kyiv",
+    "direction": "North",
+    "drone_type": "Shahed",
+    "drone_count": 38,
+    "lat": 50.225406498773225,
+    "lon": 30.41731000829145
+  },
+  {
+    "date": "2024-06-19",
+    "title": "Russian Shahed attack on Kyiv",
+    "city": "Kyiv",
+    "direction": "North",
+    "drone_type": "Shahed",
+    "drone_count": 41,
+    "lat": 50.15035258109673,
+    "lon": 30.819699689868486
+  },
+  {
+    "date": "2024-06-20",
+    "title": "Russian Shahed attack on Kyiv",
+    "city": "Kyiv",
+    "direction": "Northwest",
+    "drone_type": "Shahed",
+    "drone_count": 9,
+    "lat": 50.65261829087379,
+    "lon": 30.28703841893691
+  },
+  {
+    "date": "2024-06-21",
+    "title": "Russian Shahed attack on Kyiv",
+    "city": "Kyiv",
+    "direction": "Northwest",
+    "drone_type": "Shahed",
+    "drone_count": 28,
+    "lat": 50.376205518613695,
+    "lon": 30.227701765294622
+  },
+  {
+    "date": "2024-06-21",
+    "title": "Russian Missile attack on Lviv",
+    "city": "Lviv",
+    "direction": "Northwest",
+    "drone_type": "Missile",
+    "drone_count": 6,
+    "lat": 49.80606244605963,
+    "lon": 23.998773773289162
+  },
+  {
+    "date": "2024-06-22",
+    "title": "Russian Ballistic attack on Poltava",
+    "city": "Poltava",
+    "direction": "Northeast",
+    "drone_type": "Ballistic",
+    "drone_count": 3,
+    "lat": 49.69114494752992,
+    "lon": 34.3328009899177
+  },
+  {
+    "date": "2024-06-22",
+    "title": "Russian Shahed attack on Mykolaiv",
+    "city": "Mykolaiv",
+    "direction": "South",
+    "drone_type": "Shahed",
+    "drone_count": 39,
+    "lat": 47.03840721894391,
+    "lon": 31.82691370213659
+  },
+  {
+    "date": "2024-06-24",
+    "title": "Russian FPV attack on Kharkiv",
+    "city": "Kharkiv",
+    "direction": "Northeast",
+    "drone_type": "FPV",
+    "drone_count": 2,
+    "lat": 49.87453892172749,
+    "lon": 36.105019926085006
+  },
+  {
+    "date": "2024-06-27",
+    "title": "Russian Shahed attack on Kyiv",
+    "city": "Kyiv",
+    "direction": "North",
+    "drone_type": "Shahed",
+    "drone_count": 22,
+    "lat": 50.29150968912687,
+    "lon": 30.461462629965904
+  },
+  {
+    "date": "2024-06-28",
+    "title": "Russian Shahed attack on Sumy",
+    "city": "Sumy",
+    "direction": "North",
+    "drone_type": "Shahed",
+    "drone_count": 11,
+    "lat": 50.792404288631936,
+    "lon": 34.85457114696844
+  },
+  {
+    "date": "2024-06-28",
+    "title": "Russian FPV attack on Kharkiv",
+    "city": "Kharkiv",
+    "direction": "Northeast",
+    "drone_type": "FPV",
+    "drone_count": 6,
+    "lat": 49.788170926499234,
+    "lon": 35.93933209030039
+  },
+  {
+    "date": "2024-07-01",
+    "title": "Russian Shahed attack on Sumy",
+    "city": "Sumy",
+    "direction": "North",
+    "drone_type": "Shahed",
+    "drone_count": 40,
+    "lat": 50.99365553052908,
+    "lon": 34.686065818920795
+  },
+  {
+    "date": "2024-07-01",
+    "title": "Russian Lancet attack on Zaporizhzhia",
+    "city": "Zaporizhzhia",
+    "direction": "East",
+    "drone_type": "Lancet",
+    "drone_count": 1,
+    "lat": 48.13062302892682,
+    "lon": 35.39625479773963
+  },
+  {
+    "date": "2024-07-02",
+    "title": "Russian Shahed attack on Kharkiv",
+    "city": "Kharkiv",
+    "direction": "Northeast",
+    "drone_type": "Shahed",
+    "drone_count": 21,
+    "lat": 50.066212018097325,
+    "lon": 36.491438722039376
+  },
+  {
+    "date": "2024-07-04",
+    "title": "Russian Ballistic attack on Dnipro",
+    "city": "Dnipro",
+    "direction": "East",
+    "drone_type": "Ballistic",
+    "drone_count": 7,
+    "lat": 48.283176721321084,
+    "lon": 35.33730626054533
+  },
+  {
+    "date": "2024-07-06",
+    "title": "Russian Shahed attack on Kharkiv",
+    "city": "Kharkiv",
+    "direction": "Northeast",
+    "drone_type": "Shahed",
+    "drone_count": 15,
+    "lat": 50.05486689054713,
+    "lon": 35.953258735093925
+  },
+  {
+    "date": "2024-07-09",
+    "title": "Russian Ballistic attack on Dnipro",
+    "city": "Dnipro",
+    "direction": "East",
+    "drone_type": "Ballistic",
+    "drone_count": 3,
+    "lat": 48.30484339436064,
+    "lon": 35.238053120619135
+  },
+  {
+    "date": "2024-07-09",
+    "title": "Russian Lancet attack on Zaporizhzhia",
+    "city": "Zaporizhzhia",
+    "direction": "East",
+    "drone_type": "Lancet",
+    "drone_count": 3,
+    "lat": 47.908827947454775,
+    "lon": 34.98482142396021
+  },
+  {
+    "date": "2024-07-10",
+    "title": "Russian Shahed attack on Kharkiv",
+    "city": "Kharkiv",
+    "direction": "Northeast",
+    "drone_type": "Shahed",
+    "drone_count": 8,
+    "lat": 49.92990447876094,
+    "lon": 36.43371308551723
+  },
+  {
+    "date": "2024-07-10",
+    "title": "Russian Shahed attack on Kharkiv",
+    "city": "Kharkiv",
+    "direction": "Northeast",
+    "drone_type": "Shahed",
+    "drone_count": 26,
+    "lat": 49.85923115539229,
+    "lon": 36.44469282553991
+  },
+  {
+    "date": "2024-07-13",
+    "title": "Russian Shahed attack on Kharkiv",
+    "city": "Kharkiv",
+    "direction": "Northeast",
+    "drone_type": "Shahed",
+    "drone_count": 24,
+    "lat": 49.997455675862774,
+    "lon": 35.945218333324135
+  },
+  {
+    "date": "2024-07-13",
+    "title": "Russian Lancet attack on Zaporizhzhia",
+    "city": "Zaporizhzhia",
+    "direction": "East",
+    "drone_type": "Lancet",
+    "drone_count": 4,
+    "lat": 47.63088649661395,
+    "lon": 34.98214197525966
+  },
+  {
+    "date": "2024-07-14",
+    "title": "Russian Missile attack on Odesa",
+    "city": "Odesa",
+    "direction": "South",
+    "drone_type": "Missile",
+    "drone_count": 6,
+    "lat": 46.55349427990695,
+    "lon": 30.758291435545747
+  },
+  {
+    "date": "2024-07-14",
+    "title": "Russian Shahed attack on Mykolaiv",
+    "city": "Mykolaiv",
+    "direction": "South",
+    "drone_type": "Shahed",
+    "drone_count": 39,
+    "lat": 46.95573146149277,
+    "lon": 32.26827588174029
+  },
+  {
+    "date": "2024-07-16",
+    "title": "Russian Shahed attack on Kharkiv",
+    "city": "Kharkiv",
+    "direction": "Northeast",
+    "drone_type": "Shahed",
+    "drone_count": 36,
+    "lat": 49.83638483729838,
+    "lon": 36.2520105641662
+  },
+  {
+    "date": "2024-07-16",
+    "title": "Russian Ballistic attack on Poltava",
+    "city": "Poltava",
+    "direction": "Northeast",
+    "drone_type": "Ballistic",
+    "drone_count": 5,
+    "lat": 49.41092189593063,
+    "lon": 34.27128388253634
+  },
+  {
+    "date": "2024-07-17",
+    "title": "Russian FPV attack on Kherson",
+    "city": "Kherson",
+    "direction": "South",
+    "drone_type": "FPV",
+    "drone_count": 5,
+    "lat": 46.49822086422896,
+    "lon": 32.69993835763046
+  },
+  {
+    "date": "2024-07-18",
+    "title": "Russian FPV attack on Kherson",
+    "city": "Kherson",
+    "direction": "South",
+    "drone_type": "FPV",
+    "drone_count": 1,
+    "lat": 46.84366587152257,
+    "lon": 32.67663751814352
+  },
+  {
+    "date": "2024-07-19",
+    "title": "Russian Shahed attack on Kyiv",
+    "city": "Kyiv",
+    "direction": "Northwest",
+    "drone_type": "Shahed",
+    "drone_count": 41,
+    "lat": 50.31113110792396,
+    "lon": 30.766762609918658
+  },
+  {
+    "date": "2024-07-19",
+    "title": "Russian Shahed attack on Mykolaiv",
+    "city": "Mykolaiv",
+    "direction": "South",
+    "drone_type": "Shahed",
+    "drone_count": 33,
+    "lat": 47.24206593065826,
+    "lon": 31.90552320223388
+  },
+  {
+    "date": "2024-07-19",
+    "title": "Russian Shahed attack on Sumy",
+    "city": "Sumy",
+    "direction": "North",
+    "drone_type": "Shahed",
+    "drone_count": 12,
+    "lat": 50.89884154346053,
+    "lon": 34.62506790938785
+  },
+  {
+    "date": "2024-07-20",
+    "title": "Russian Lancet attack on Kharkiv",
+    "city": "Kharkiv",
+    "direction": "Northeast",
+    "drone_type": "Lancet",
+    "drone_count": 1,
+    "lat": 49.943749165505395,
+    "lon": 36.4096814912093
+  },
+  {
+    "date": "2024-07-21",
+    "title": "Russian Shahed attack on Kyiv",
+    "city": "Kyiv",
+    "direction": "North",
+    "drone_type": "Shahed",
+    "drone_count": 28,
+    "lat": 50.17885303869824,
+    "lon": 30.475416677406216
+  },
+  {
+    "date": "2024-07-21",
+    "title": "Russian Shahed attack on Zaporizhzhia",
+    "city": "Zaporizhzhia",
+    "direction": "East",
+    "drone_type": "Shahed",
+    "drone_count": 30,
+    "lat": 47.594856702896365,
+    "lon": 35.34883918989296
+  },
+  {
+    "date": "2024-07-22",
+    "title": "Russian Shahed attack on Kyiv",
+    "city": "Kyiv",
+    "direction": "North",
+    "drone_type": "Shahed",
+    "drone_count": 13,
+    "lat": 50.45339096124479,
+    "lon": 30.397802110878587
+  },
+  {
+    "date": "2024-07-22",
+    "title": "Russian Shahed attack on Dnipro",
+    "city": "Dnipro",
+    "direction": "East",
+    "drone_type": "Shahed",
+    "drone_count": 38,
+    "lat": 48.561495927279395,
+    "lon": 35.1272252911943
+  },
+  {
+    "date": "2024-07-23",
+    "title": "Russian Shahed attack on Kharkiv",
+    "city": "Kharkiv",
+    "direction": "Northeast",
+    "drone_type": "Shahed",
+    "drone_count": 19,
+    "lat": 50.210439826497584,
+    "lon": 36.37879147832561
+  },
+  {
+    "date": "2024-07-23",
+    "title": "Russian FPV attack on Kherson",
+    "city": "Kherson",
+    "direction": "South",
+    "drone_type": "FPV",
+    "drone_count": 1,
+    "lat": 46.70554960541706,
+    "lon": 32.52124397284827
+  },
+  {
+    "date": "2024-07-25",
+    "title": "Russian Shahed attack on Kharkiv",
+    "city": "Kharkiv",
+    "direction": "Northeast",
+    "drone_type": "Shahed",
+    "drone_count": 19,
+    "lat": 50.28213698015882,
+    "lon": 36.332845091485446
+  },
+  {
+    "date": "2024-07-25",
+    "title": "Russian Shahed attack on Mykolaiv",
+    "city": "Mykolaiv",
+    "direction": "South",
+    "drone_type": "Shahed",
+    "drone_count": 22,
+    "lat": 47.00908981373701,
+    "lon": 31.811668552659466
+  },
+  {
+    "date": "2024-07-26",
+    "title": "Russian Ballistic attack on Poltava",
+    "city": "Poltava",
+    "direction": "Northeast",
+    "drone_type": "Ballistic",
+    "drone_count": 2,
+    "lat": 49.40438762898447,
+    "lon": 34.44850835377342
+  },
+  {
+    "date": "2024-07-27",
+    "title": "Russian Shahed attack on Sumy",
+    "city": "Sumy",
+    "direction": "North",
+    "drone_type": "Shahed",
+    "drone_count": 26,
+    "lat": 51.09664749947944,
+    "lon": 35.07495893426391
+  },
+  {
+    "date": "2024-07-27",
+    "title": "Russian Ballistic attack on Dnipro",
+    "city": "Dnipro",
+    "direction": "East",
+    "drone_type": "Ballistic",
+    "drone_count": 8,
+    "lat": 48.47060156557682,
+    "lon": 35.33192109984067
+  },
+  {
+    "date": "2024-07-27",
+    "title": "Russian Lancet attack on Zaporizhzhia",
+    "city": "Zaporizhzhia",
+    "direction": "East",
+    "drone_type": "Lancet",
+    "drone_count": 1,
+    "lat": 47.53980786161816,
+    "lon": 35.10406781499427
+  },
+  {
+    "date": "2024-07-28",
+    "title": "Russian Shahed attack on Sumy",
+    "city": "Sumy",
+    "direction": "North",
+    "drone_type": "Shahed",
+    "drone_count": 33,
+    "lat": 51.0691745335091,
+    "lon": 34.60726649400765
+  },
+  {
+    "date": "2024-07-31",
+    "title": "Russian Shahed attack on Dnipro",
+    "city": "Dnipro",
+    "direction": "East",
+    "drone_type": "Shahed",
+    "drone_count": 22,
+    "lat": 48.39651985903231,
+    "lon": 35.34411677888301
+  },
+  {
+    "date": "2024-07-31",
+    "title": "Russian Shahed attack on Dnipro",
+    "city": "Dnipro",
+    "direction": "East",
+    "drone_type": "Shahed",
+    "drone_count": 9,
+    "lat": 48.494558324901156,
+    "lon": 34.870418369403346
+  },
+  {
+    "date": "2024-08-01",
+    "title": "Russian Ballistic attack on Poltava",
+    "city": "Poltava",
+    "direction": "Northeast",
+    "drone_type": "Ballistic",
+    "drone_count": 7,
+    "lat": 49.790409510554795,
+    "lon": 34.66984056870524
+  },
+  {
+    "date": "2024-08-04",
+    "title": "Russian Shahed attack on Kyiv",
+    "city": "Kyiv",
+    "direction": "Northwest",
+    "drone_type": "Shahed",
+    "drone_count": 8,
+    "lat": 50.45166181404369,
+    "lon": 30.68154432947691
+  },
+  {
+    "date": "2024-08-06",
+    "title": "Russian Ballistic attack on Dnipro",
+    "city": "Dnipro",
+    "direction": "East",
+    "drone_type": "Ballistic",
+    "drone_count": 1,
+    "lat": 48.58314474156372,
+    "lon": 35.065585951236656
+  },
+  {
+    "date": "2024-08-06",
+    "title": "Russian Missile attack on Lviv",
+    "city": "Lviv",
+    "direction": "Northwest",
+    "drone_type": "Missile",
+    "drone_count": 2,
+    "lat": 49.858480650871066,
+    "lon": 24.041093339602458
+  },
+  {
+    "date": "2024-08-06",
+    "title": "Russian Shahed attack on Dnipro",
+    "city": "Dnipro",
+    "direction": "East",
+    "drone_type": "Shahed",
+    "drone_count": 16,
+    "lat": 48.28344783568451,
+    "lon": 35.11763911388833
+  },
+  {
+    "date": "2024-08-06",
+    "title": "Russian Ballistic attack on Poltava",
+    "city": "Poltava",
+    "direction": "Northeast",
+    "drone_type": "Ballistic",
+    "drone_count": 8,
+    "lat": 49.59261090715699,
+    "lon": 34.50023021832931
+  },
+  {
+    "date": "2024-08-07",
+    "title": "Russian Lancet attack on Kharkiv",
+    "city": "Kharkiv",
+    "direction": "Northeast",
+    "drone_type": "Lancet",
+    "drone_count": 2,
+    "lat": 49.805758703581425,
+    "lon": 36.348104764895176
+  },
+  {
+    "date": "2024-08-08",
+    "title": "Russian FPV attack on Kharkiv",
+    "city": "Kharkiv",
+    "direction": "Northeast",
+    "drone_type": "FPV",
+    "drone_count": 5,
+    "lat": 50.18382410242384,
+    "lon": 36.47601538278081
+  },
+  {
+    "date": "2024-08-10",
+    "title": "Russian Shahed attack on Kyiv",
+    "city": "Kyiv",
+    "direction": "Northwest",
+    "drone_type": "Shahed",
+    "drone_count": 25,
+    "lat": 50.38565569286683,
+    "lon": 30.64372311655629
+  },
+  {
+    "date": "2024-08-11",
+    "title": "Russian Lancet attack on Zaporizhzhia",
+    "city": "Zaporizhzhia",
+    "direction": "East",
+    "drone_type": "Lancet",
+    "drone_count": 1,
+    "lat": 47.81380373031,
+    "lon": 35.07897141510281
+  },
+  {
+    "date": "2024-08-12",
+    "title": "Russian Shahed attack on Zaporizhzhia",
+    "city": "Zaporizhzhia",
+    "direction": "East",
+    "drone_type": "Shahed",
+    "drone_count": 10,
+    "lat": 47.770241626641,
+    "lon": 35.07476319430472
+  },
+  {
+    "date": "2024-08-13",
+    "title": "Russian Missile attack on Odesa",
+    "city": "Odesa",
+    "direction": "South",
+    "drone_type": "Missile",
+    "drone_count": 5,
+    "lat": 46.38022903707792,
+    "lon": 30.796240748722493
+  },
+  {
+    "date": "2024-08-14",
+    "title": "Russian Shahed attack on Zaporizhzhia",
+    "city": "Zaporizhzhia",
+    "direction": "East",
+    "drone_type": "Shahed",
+    "drone_count": 28,
+    "lat": 47.8745215179273,
+    "lon": 35.33106856207553
+  },
+  {
+    "date": "2024-08-15",
+    "title": "Russian Shahed attack on Sumy",
+    "city": "Sumy",
+    "direction": "North",
+    "drone_type": "Shahed",
+    "drone_count": 24,
+    "lat": 50.86038891639259,
+    "lon": 34.68651120516467
+  },
+  {
+    "date": "2024-08-16",
+    "title": "Russian Lancet attack on Zaporizhzhia",
+    "city": "Zaporizhzhia",
+    "direction": "East",
+    "drone_type": "Lancet",
+    "drone_count": 1,
+    "lat": 47.650789152971846,
+    "lon": 35.42792551616266
+  },
+  {
+    "date": "2024-08-17",
+    "title": "Russian Shahed attack on Kyiv",
+    "city": "Kyiv",
+    "direction": "Northwest",
+    "drone_type": "Shahed",
+    "drone_count": 8,
+    "lat": 50.32138177721514,
+    "lon": 30.229138871217167
+  },
+  {
+    "date": "2024-08-17",
+    "title": "Russian Shahed attack on Kyiv",
+    "city": "Kyiv",
+    "direction": "North",
+    "drone_type": "Shahed",
+    "drone_count": 26,
+    "lat": 50.24462104646037,
+    "lon": 30.5020533646718
+  },
+  {
+    "date": "2024-08-18",
+    "title": "Russian Shahed attack on Kyiv",
+    "city": "Kyiv",
+    "direction": "Northwest",
+    "drone_type": "Shahed",
+    "drone_count": 41,
+    "lat": 50.68772392198552,
+    "lon": 30.671209512709435
+  },
+  {
+    "date": "2024-08-18",
+    "title": "Russian FPV attack on Kharkiv",
+    "city": "Kharkiv",
+    "direction": "Northeast",
+    "drone_type": "FPV",
+    "drone_count": 1,
+    "lat": 49.81647989455622,
+    "lon": 36.05538336210925
+  },
+  {
+    "date": "2024-08-19",
+    "title": "Russian Shahed attack on Odesa",
+    "city": "Odesa",
+    "direction": "South",
+    "drone_type": "Shahed",
+    "drone_count": 42,
+    "lat": 46.56207140246392,
+    "lon": 30.78867871562323
+  },
+  {
+    "date": "2024-08-19",
+    "title": "Russian FPV attack on Kharkiv",
+    "city": "Kharkiv",
+    "direction": "Northeast",
+    "drone_type": "FPV",
+    "drone_count": 1,
+    "lat": 50.14450861485832,
+    "lon": 36.321210743668225
+  },
+  {
+    "date": "2024-08-19",
+    "title": "Russian Lancet attack on Zaporizhzhia",
+    "city": "Zaporizhzhia",
+    "direction": "East",
+    "drone_type": "Lancet",
+    "drone_count": 1,
+    "lat": 47.69021935930842,
+    "lon": 34.91173721526293
+  },
+  {
+    "date": "2024-08-20",
+    "title": "Russian Shahed attack on Kyiv",
+    "city": "Kyiv",
+    "direction": "Northwest",
+    "drone_type": "Shahed",
+    "drone_count": 15,
+    "lat": 50.69882324017138,
+    "lon": 30.63591747896421
+  },
+  {
+    "date": "2024-08-21",
+    "title": "Russian FPV attack on Kharkiv",
+    "city": "Kharkiv",
+    "direction": "Northeast",
+    "drone_type": "FPV",
+    "drone_count": 6,
+    "lat": 49.915265909398364,
+    "lon": 36.03291952356683
+  },
+  {
+    "date": "2024-08-22",
+    "title": "Russian Missile attack on Lviv",
+    "city": "Lviv",
+    "direction": "Northwest",
+    "drone_type": "Missile",
+    "drone_count": 10,
+    "lat": 49.6639155303711,
+    "lon": 23.97439125791182
+  },
+  {
+    "date": "2024-08-22",
+    "title": "Russian Shahed attack on Sumy",
+    "city": "Sumy",
+    "direction": "North",
+    "drone_type": "Shahed",
+    "drone_count": 34,
+    "lat": 51.00745002105821,
+    "lon": 34.85979138577468
+  },
+  {
+    "date": "2024-08-22",
+    "title": "Russian Shahed attack on Dnipro",
+    "city": "Dnipro",
+    "direction": "East",
+    "drone_type": "Shahed",
+    "drone_count": 23,
+    "lat": 48.18750050818849,
+    "lon": 35.15599473446273
+  },
+  {
+    "date": "2024-08-26",
+    "title": "Russian Missile attack on Odesa",
+    "city": "Odesa",
+    "direction": "South",
+    "drone_type": "Missile",
+    "drone_count": 5,
+    "lat": 46.754478405503626,
+    "lon": 30.608837617787735
+  },
+  {
+    "date": "2024-08-27",
+    "title": "Russian Missile attack on Odesa",
+    "city": "Odesa",
+    "direction": "South",
+    "drone_type": "Missile",
+    "drone_count": 12,
+    "lat": 46.60520430714682,
+    "lon": 30.85052802745907
+  },
+  {
+    "date": "2024-08-27",
+    "title": "Russian FPV attack on Kharkiv",
+    "city": "Kharkiv",
+    "direction": "Northeast",
+    "drone_type": "FPV",
+    "drone_count": 2,
+    "lat": 50.03898925761023,
+    "lon": 36.530358932918894
+  },
+  {
+    "date": "2024-08-30",
+    "title": "Russian Ballistic attack on Poltava",
+    "city": "Poltava",
+    "direction": "Northeast",
+    "drone_type": "Ballistic",
+    "drone_count": 1,
+    "lat": 49.50580348940381,
+    "lon": 34.73272364114066
+  },
+  {
+    "date": "2024-08-30",
+    "title": "Russian Shahed attack on Kyiv",
+    "city": "Kyiv",
+    "direction": "Northwest",
+    "drone_type": "Shahed",
+    "drone_count": 8,
+    "lat": 50.4411856080765,
+    "lon": 30.33622627078914
+  },
+  {
+    "date": "2024-09-01",
+    "title": "Russian Shahed attack on Kharkiv",
+    "city": "Kharkiv",
+    "direction": "Northeast",
+    "drone_type": "Shahed",
+    "drone_count": 24,
+    "lat": 49.90707027641504,
+    "lon": 36.115864069046275
+  },
+  {
+    "date": "2024-09-03",
+    "title": "Russian Shahed attack on Kyiv",
+    "city": "Kyiv",
+    "direction": "North",
+    "drone_type": "Shahed",
+    "drone_count": 24,
+    "lat": 50.49695243353024,
+    "lon": 30.4073617109404
+  },
+  {
+    "date": "2024-09-04",
+    "title": "Russian Shahed attack on Kyiv",
+    "city": "Kyiv",
+    "direction": "North",
+    "drone_type": "Shahed",
+    "drone_count": 36,
+    "lat": 50.56237208094919,
+    "lon": 30.411973356703243
+  },
+  {
+    "date": "2024-09-06",
+    "title": "Russian Shahed attack on Mykolaiv",
+    "city": "Mykolaiv",
+    "direction": "South",
+    "drone_type": "Shahed",
+    "drone_count": 37,
+    "lat": 46.963770002388436,
+    "lon": 32.0021623317164
+  },
+  {
+    "date": "2024-09-11",
+    "title": "Russian Lancet attack on Kharkiv",
+    "city": "Kharkiv",
+    "direction": "Northeast",
+    "drone_type": "Lancet",
+    "drone_count": 4,
+    "lat": 50.13625306126855,
+    "lon": 36.52042965075065
+  },
+  {
+    "date": "2024-09-14",
+    "title": "Russian Shahed attack on Dnipro",
+    "city": "Dnipro",
+    "direction": "East",
+    "drone_type": "Shahed",
+    "drone_count": 9,
+    "lat": 48.54666393837161,
+    "lon": 34.95647885312211
+  },
+  {
+    "date": "2024-09-16",
+    "title": "Russian Shahed attack on Zaporizhzhia",
+    "city": "Zaporizhzhia",
+    "direction": "East",
+    "drone_type": "Shahed",
+    "drone_count": 26,
+    "lat": 47.76398737030343,
+    "lon": 34.86932604863316
+  },
+  {
+    "date": "2024-09-18",
+    "title": "Russian Shahed attack on Dnipro",
+    "city": "Dnipro",
+    "direction": "East",
+    "drone_type": "Shahed",
+    "drone_count": 37,
+    "lat": 48.72664524467944,
+    "lon": 35.33532484893556
+  },
+  {
+    "date": "2024-09-18",
+    "title": "Russian Missile attack on Lviv",
+    "city": "Lviv",
+    "direction": "Northwest",
+    "drone_type": "Missile",
+    "drone_count": 3,
+    "lat": 50.010789813633096,
+    "lon": 24.124327362334817
+  },
+  {
+    "date": "2024-09-18",
+    "title": "Russian Shahed attack on Dnipro",
+    "city": "Dnipro",
+    "direction": "East",
+    "drone_type": "Shahed",
+    "drone_count": 31,
+    "lat": 48.176636434123736,
+    "lon": 35.18794532140442
+  },
+  {
+    "date": "2024-09-19",
+    "title": "Russian Shahed attack on Dnipro",
+    "city": "Dnipro",
+    "direction": "East",
+    "drone_type": "Shahed",
+    "drone_count": 42,
+    "lat": 48.72625893923945,
+    "lon": 34.80300123076964
+  },
+  {
+    "date": "2024-09-21",
+    "title": "Russian Lancet attack on Zaporizhzhia",
+    "city": "Zaporizhzhia",
+    "direction": "East",
+    "drone_type": "Lancet",
+    "drone_count": 3,
+    "lat": 47.6805462086349,
+    "lon": 34.842375899369564
+  },
+  {
+    "date": "2024-09-21",
+    "title": "Russian Ballistic attack on Poltava",
+    "city": "Poltava",
+    "direction": "Northeast",
+    "drone_type": "Ballistic",
+    "drone_count": 7,
+    "lat": 49.80075880958903,
+    "lon": 34.57449620403728
+  },
+  {
+    "date": "2024-09-22",
+    "title": "Russian Shahed attack on Zaporizhzhia",
+    "city": "Zaporizhzhia",
+    "direction": "East",
+    "drone_type": "Shahed",
+    "drone_count": 10,
+    "lat": 47.76647688848757,
+    "lon": 35.18338930466202
+  },
+  {
+    "date": "2024-09-24",
+    "title": "Russian Missile attack on Lviv",
+    "city": "Lviv",
+    "direction": "Northwest",
+    "drone_type": "Missile",
+    "drone_count": 12,
+    "lat": 50.12723187736365,
+    "lon": 23.804548166523663
+  },
+  {
+    "date": "2024-09-24",
+    "title": "Russian Shahed attack on Kyiv",
+    "city": "Kyiv",
+    "direction": "North",
+    "drone_type": "Shahed",
+    "drone_count": 16,
+    "lat": 50.48487440802506,
+    "lon": 30.268845205362755
+  },
+  {
+    "date": "2024-09-24",
+    "title": "Russian Shahed attack on Kyiv",
+    "city": "Kyiv",
+    "direction": "North",
+    "drone_type": "Shahed",
+    "drone_count": 12,
+    "lat": 50.27311326055611,
+    "lon": 30.798904229229866
+  },
+  {
+    "date": "2024-09-24",
+    "title": "Russian FPV attack on Kherson",
+    "city": "Kherson",
+    "direction": "South",
+    "drone_type": "FPV",
+    "drone_count": 3,
+    "lat": 46.50138056729244,
+    "lon": 32.85882258404003
+  },
+  {
+    "date": "2024-09-25",
+    "title": "Russian Shahed attack on Kyiv",
+    "city": "Kyiv",
+    "direction": "Northwest",
+    "drone_type": "Shahed",
+    "drone_count": 14,
+    "lat": 50.22444871681276,
+    "lon": 30.412842295045753
+  },
+  {
+    "date": "2024-09-27",
+    "title": "Russian Shahed attack on Odesa",
+    "city": "Odesa",
+    "direction": "South",
+    "drone_type": "Shahed",
+    "drone_count": 13,
+    "lat": 46.69235057918039,
+    "lon": 30.675616355201708
+  },
+  {
+    "date": "2024-09-28",
+    "title": "Russian Shahed attack on Kyiv",
+    "city": "Kyiv",
+    "direction": "Northwest",
+    "drone_type": "Shahed",
+    "drone_count": 22,
+    "lat": 50.643163355635465,
+    "lon": 30.25733293719356
+  },
+  {
+    "date": "2024-09-28",
+    "title": "Russian FPV attack on Kharkiv",
+    "city": "Kharkiv",
+    "direction": "Northeast",
+    "drone_type": "FPV",
+    "drone_count": 6,
+    "lat": 49.84498039599848,
+    "lon": 36.04190530902524
+  },
+  {
+    "date": "2024-09-29",
+    "title": "Russian Missile attack on Odesa",
+    "city": "Odesa",
+    "direction": "South",
+    "drone_type": "Missile",
+    "drone_count": 2,
+    "lat": 46.51686248356762,
+    "lon": 30.82913744685348
+  },
+  {
+    "date": "2024-10-01",
+    "title": "Russian Shahed attack on Dnipro",
+    "city": "Dnipro",
+    "direction": "East",
+    "drone_type": "Shahed",
+    "drone_count": 16,
+    "lat": 48.58209023730962,
+    "lon": 35.07348643410233
+  },
+  {
+    "date": "2024-10-01",
+    "title": "Russian Shahed attack on Kyiv",
+    "city": "Kyiv",
+    "direction": "Northwest",
+    "drone_type": "Shahed",
+    "drone_count": 36,
+    "lat": 50.28806330704214,
+    "lon": 30.43354064793022
+  },
+  {
+    "date": "2024-10-04",
+    "title": "Russian Ballistic attack on Dnipro",
+    "city": "Dnipro",
+    "direction": "East",
+    "drone_type": "Ballistic",
+    "drone_count": 3,
+    "lat": 48.31040721483799,
+    "lon": 35.08487038540095
+  },
+  {
+    "date": "2024-10-06",
+    "title": "Russian Shahed attack on Zaporizhzhia",
+    "city": "Zaporizhzhia",
+    "direction": "East",
+    "drone_type": "Shahed",
+    "drone_count": 21,
+    "lat": 48.061671073019106,
+    "lon": 35.231725869110925
+  },
+  {
+    "date": "2024-10-09",
+    "title": "Russian Shahed attack on Odesa",
+    "city": "Odesa",
+    "direction": "South",
+    "drone_type": "Shahed",
+    "drone_count": 8,
+    "lat": 46.42832245503029,
+    "lon": 30.43989086817944
+  },
+  {
+    "date": "2024-10-09",
+    "title": "Russian FPV attack on Kharkiv",
+    "city": "Kharkiv",
+    "direction": "Northeast",
+    "drone_type": "FPV",
+    "drone_count": 6,
+    "lat": 49.75660336192061,
+    "lon": 36.39628053730802
+  },
+  {
+    "date": "2024-10-09",
+    "title": "Russian Missile attack on Odesa",
+    "city": "Odesa",
+    "direction": "South",
+    "drone_type": "Missile",
+    "drone_count": 4,
+    "lat": 46.22636266533585,
+    "lon": 30.577996903904836
+  },
+  {
+    "date": "2024-10-12",
+    "title": "Russian Shahed attack on Kyiv",
+    "city": "Kyiv",
+    "direction": "North",
+    "drone_type": "Shahed",
+    "drone_count": 15,
+    "lat": 50.24495481453201,
+    "lon": 30.546007290207733
+  },
+  {
+    "date": "2024-10-13",
+    "title": "Russian Shahed attack on Kyiv",
+    "city": "Kyiv",
+    "direction": "Northwest",
+    "drone_type": "Shahed",
+    "drone_count": 24,
+    "lat": 50.534021261394955,
+    "lon": 30.64949102095685
+  },
+  {
+    "date": "2024-10-18",
+    "title": "Russian Shahed attack on Kyiv",
+    "city": "Kyiv",
+    "direction": "Northwest",
+    "drone_type": "Shahed",
+    "drone_count": 16,
+    "lat": 50.64593362432406,
+    "lon": 30.415635130869692
+  },
+  {
+    "date": "2024-10-18",
+    "title": "Russian FPV attack on Kharkiv",
+    "city": "Kharkiv",
+    "direction": "Northeast",
+    "drone_type": "FPV",
+    "drone_count": 2,
+    "lat": 49.876090732681135,
+    "lon": 36.10561800247513
+  },
+  {
+    "date": "2024-10-19",
+    "title": "Russian Shahed attack on Kyiv",
+    "city": "Kyiv",
+    "direction": "North",
+    "drone_type": "Shahed",
+    "drone_count": 16,
+    "lat": 50.26819017481978,
+    "lon": 30.756138467753992
+  },
+  {
+    "date": "2024-10-20",
+    "title": "Russian Shahed attack on Dnipro",
+    "city": "Dnipro",
+    "direction": "East",
+    "drone_type": "Shahed",
+    "drone_count": 24,
+    "lat": 48.35674886273122,
+    "lon": 34.80439762982777
+  },
+  {
+    "date": "2024-10-21",
+    "title": "Russian Shahed attack on Kyiv",
+    "city": "Kyiv",
+    "direction": "North",
+    "drone_type": "Shahed",
+    "drone_count": 12,
+    "lat": 50.55406270680512,
+    "lon": 30.38587742539945
+  },
+  {
+    "date": "2024-10-22",
+    "title": "Russian Missile attack on Odesa",
+    "city": "Odesa",
+    "direction": "South",
+    "drone_type": "Missile",
+    "drone_count": 3,
+    "lat": 46.48177588401342,
+    "lon": 30.9964151458676
+  },
+  {
+    "date": "2024-10-23",
+    "title": "Russian FPV attack on Kherson",
+    "city": "Kherson",
+    "direction": "South",
+    "drone_type": "FPV",
+    "drone_count": 6,
+    "lat": 46.452098323095555,
+    "lon": 32.519016409188865
+  },
+  {
+    "date": "2024-10-23",
+    "title": "Russian Ballistic attack on Poltava",
+    "city": "Poltava",
+    "direction": "Northeast",
+    "drone_type": "Ballistic",
+    "drone_count": 3,
+    "lat": 49.48725208416268,
+    "lon": 34.39123900545963
+  },
+  {
+    "date": "2024-10-25",
+    "title": "Russian Ballistic attack on Dnipro",
+    "city": "Dnipro",
+    "direction": "East",
+    "drone_type": "Ballistic",
+    "drone_count": 2,
+    "lat": 48.551456974733306,
+    "lon": 34.76836128536441
+  },
+  {
+    "date": "2024-10-26",
+    "title": "Russian Missile attack on Odesa",
+    "city": "Odesa",
+    "direction": "South",
+    "drone_type": "Missile",
+    "drone_count": 7,
+    "lat": 46.663954332550006,
+    "lon": 30.463079293027608
+  },
+  {
+    "date": "2024-10-26",
+    "title": "Russian Shahed attack on Zaporizhzhia",
+    "city": "Zaporizhzhia",
+    "direction": "East",
+    "drone_type": "Shahed",
+    "drone_count": 24,
+    "lat": 47.884013278291434,
+    "lon": 34.920483057288145
+  },
+  {
+    "date": "2024-10-27",
+    "title": "Russian Missile attack on Lviv",
+    "city": "Lviv",
+    "direction": "Northwest",
+    "drone_type": "Missile",
+    "drone_count": 12,
+    "lat": 49.63248682267161,
+    "lon": 24.030522509227552
+  },
+  {
+    "date": "2024-10-29",
+    "title": "Russian Shahed attack on Odesa",
+    "city": "Odesa",
+    "direction": "South",
+    "drone_type": "Shahed",
+    "drone_count": 31,
+    "lat": 46.63659926593387,
+    "lon": 30.435823683370995
+  },
+  {
+    "date": "2024-10-29",
+    "title": "Russian Shahed attack on Mykolaiv",
+    "city": "Mykolaiv",
+    "direction": "South",
+    "drone_type": "Shahed",
+    "drone_count": 16,
+    "lat": 46.977642284537104,
+    "lon": 32.11174040907549
+  },
+  {
+    "date": "2024-10-31",
+    "title": "Russian Lancet attack on Zaporizhzhia",
+    "city": "Zaporizhzhia",
+    "direction": "East",
+    "drone_type": "Lancet",
+    "drone_count": 3,
+    "lat": 47.53913404574664,
+    "lon": 35.167582790894414
+  },
+  {
+    "date": "2024-10-31",
+    "title": "Russian Shahed attack on Kharkiv",
+    "city": "Kharkiv",
+    "direction": "Northeast",
+    "drone_type": "Shahed",
+    "drone_count": 8,
+    "lat": 49.91204637924599,
+    "lon": 36.2083028321769
+  },
+  {
+    "date": "2024-11-01",
+    "title": "Russian Ballistic attack on Poltava",
+    "city": "Poltava",
+    "direction": "Northeast",
+    "drone_type": "Ballistic",
+    "drone_count": 3,
+    "lat": 49.6016616564625,
+    "lon": 34.504944316224744
+  },
+  {
+    "date": "2024-11-02",
+    "title": "Russian Lancet attack on Kharkiv",
+    "city": "Kharkiv",
+    "direction": "Northeast",
+    "drone_type": "Lancet",
+    "drone_count": 1,
+    "lat": 49.96768219986818,
+    "lon": 35.955036131475495
+  },
+  {
+    "date": "2024-11-02",
+    "title": "Russian Shahed attack on Odesa",
+    "city": "Odesa",
+    "direction": "South",
+    "drone_type": "Shahed",
+    "drone_count": 17,
+    "lat": 46.44376568923557,
+    "lon": 30.995753705410806
+  },
+  {
+    "date": "2024-11-03",
+    "title": "Russian Shahed attack on Dnipro",
+    "city": "Dnipro",
+    "direction": "East",
+    "drone_type": "Shahed",
+    "drone_count": 39,
+    "lat": 48.192048739770236,
+    "lon": 35.15580166883267
+  },
+  {
+    "date": "2024-11-05",
+    "title": "Russian Shahed attack on Kyiv",
+    "city": "Kyiv",
+    "direction": "North",
+    "drone_type": "Shahed",
+    "drone_count": 27,
+    "lat": 50.43235643672147,
+    "lon": 30.419526509731487
+  },
+  {
+    "date": "2024-11-05",
+    "title": "Russian Shahed attack on Sumy",
+    "city": "Sumy",
+    "direction": "North",
+    "drone_type": "Shahed",
+    "drone_count": 8,
+    "lat": 51.1530715849375,
+    "lon": 34.91295473637281
+  },
+  {
+    "date": "2024-11-06",
+    "title": "Russian Shahed attack on Kyiv",
+    "city": "Kyiv",
+    "direction": "North",
+    "drone_type": "Shahed",
+    "drone_count": 34,
+    "lat": 50.623409535798146,
+    "lon": 30.608551561716112
+  },
+  {
+    "date": "2024-11-06",
+    "title": "Russian Shahed attack on Dnipro",
+    "city": "Dnipro",
+    "direction": "East",
+    "drone_type": "Shahed",
+    "drone_count": 22,
+    "lat": 48.18030954680395,
+    "lon": 35.22037060700751
+  },
+  {
+    "date": "2024-11-07",
+    "title": "Russian Shahed attack on Dnipro",
+    "city": "Dnipro",
+    "direction": "East",
+    "drone_type": "Shahed",
+    "drone_count": 29,
+    "lat": 48.274004900608176,
+    "lon": 34.788420628249696
+  },
+  {
+    "date": "2024-11-12",
+    "title": "Russian Shahed attack on Kyiv",
+    "city": "Kyiv",
+    "direction": "Northwest",
+    "drone_type": "Shahed",
+    "drone_count": 8,
+    "lat": 50.269339870640025,
+    "lon": 30.528278472635265
+  },
+  {
+    "date": "2024-11-12",
+    "title": "Russian Missile attack on Odesa",
+    "city": "Odesa",
+    "direction": "South",
+    "drone_type": "Missile",
+    "drone_count": 2,
+    "lat": 46.641825397579275,
+    "lon": 30.476569544127926
+  },
+  {
+    "date": "2024-11-13",
+    "title": "Russian Shahed attack on Mykolaiv",
+    "city": "Mykolaiv",
+    "direction": "South",
+    "drone_type": "Shahed",
+    "drone_count": 40,
+    "lat": 46.715634253625744,
+    "lon": 31.697462011524177
+  },
+  {
+    "date": "2024-11-13",
+    "title": "Russian Shahed attack on Kharkiv",
+    "city": "Kharkiv",
+    "direction": "Northeast",
+    "drone_type": "Shahed",
+    "drone_count": 36,
+    "lat": 49.744675000630295,
+    "lon": 36.05354014012471
+  },
+  {
+    "date": "2024-11-14",
+    "title": "Russian Lancet attack on Zaporizhzhia",
+    "city": "Zaporizhzhia",
+    "direction": "East",
+    "drone_type": "Lancet",
+    "drone_count": 3,
+    "lat": 47.572686131707314,
+    "lon": 34.98479726036833
+  },
+  {
+    "date": "2024-11-15",
+    "title": "Russian Shahed attack on Kharkiv",
+    "city": "Kharkiv",
+    "direction": "Northeast",
+    "drone_type": "Shahed",
+    "drone_count": 22,
+    "lat": 49.70547590142336,
+    "lon": 36.29551986526287
+  },
+  {
+    "date": "2024-11-15",
+    "title": "Russian Shahed attack on Sumy",
+    "city": "Sumy",
+    "direction": "North",
+    "drone_type": "Shahed",
+    "drone_count": 9,
+    "lat": 51.041678547538694,
+    "lon": 34.54004980943293
+  },
+  {
+    "date": "2024-11-15",
+    "title": "Russian Shahed attack on Kyiv",
+    "city": "Kyiv",
+    "direction": "Northwest",
+    "drone_type": "Shahed",
+    "drone_count": 25,
+    "lat": 50.31670502925372,
+    "lon": 30.61675545833891
+  },
+  {
+    "date": "2024-11-16",
+    "title": "Russian Shahed attack on Kharkiv",
+    "city": "Kharkiv",
+    "direction": "Northeast",
+    "drone_type": "Shahed",
+    "drone_count": 42,
+    "lat": 49.848682845855905,
+    "lon": 36.23202559043529
+  },
+  {
+    "date": "2024-11-17",
+    "title": "Russian Shahed attack on Kharkiv",
+    "city": "Kharkiv",
+    "direction": "Northeast",
+    "drone_type": "Shahed",
+    "drone_count": 27,
+    "lat": 50.28434678227407,
+    "lon": 36.12248063831888
+  },
+  {
+    "date": "2024-11-17",
+    "title": "Russian Shahed attack on Kyiv",
+    "city": "Kyiv",
+    "direction": "Northwest",
+    "drone_type": "Shahed",
+    "drone_count": 42,
+    "lat": 50.69295504155748,
+    "lon": 30.646350480390407
+  },
+  {
+    "date": "2024-11-18",
+    "title": "Russian Shahed attack on Kharkiv",
+    "city": "Kharkiv",
+    "direction": "Northeast",
+    "drone_type": "Shahed",
+    "drone_count": 37,
+    "lat": 49.72093638958056,
+    "lon": 35.95271298551916
+  },
+  {
+    "date": "2024-11-23",
+    "title": "Russian Shahed attack on Dnipro",
+    "city": "Dnipro",
+    "direction": "East",
+    "drone_type": "Shahed",
+    "drone_count": 39,
+    "lat": 48.373112816193306,
+    "lon": 34.8328970721621
+  },
+  {
+    "date": "2024-11-23",
+    "title": "Russian FPV attack on Kherson",
+    "city": "Kherson",
+    "direction": "South",
+    "drone_type": "FPV",
+    "drone_count": 1,
+    "lat": 46.562009821040945,
+    "lon": 32.683790265691094
+  },
+  {
+    "date": "2024-11-24",
+    "title": "Russian Shahed attack on Dnipro",
+    "city": "Dnipro",
+    "direction": "East",
+    "drone_type": "Shahed",
+    "drone_count": 26,
+    "lat": 48.57833791067221,
+    "lon": 35.21820197690862
+  },
+  {
+    "date": "2024-11-26",
+    "title": "Russian FPV attack on Kherson",
+    "city": "Kherson",
+    "direction": "South",
+    "drone_type": "FPV",
+    "drone_count": 5,
+    "lat": 46.509730701898455,
+    "lon": 32.5106514540199
+  },
+  {
+    "date": "2024-11-28",
+    "title": "Russian Shahed attack on Kyiv",
+    "city": "Kyiv",
+    "direction": "North",
+    "drone_type": "Shahed",
+    "drone_count": 17,
+    "lat": 50.499044049708246,
+    "lon": 30.29729799835287
+  },
+  {
+    "date": "2024-11-28",
+    "title": "Russian Shahed attack on Zaporizhzhia",
+    "city": "Zaporizhzhia",
+    "direction": "East",
+    "drone_type": "Shahed",
+    "drone_count": 24,
+    "lat": 47.67139572129648,
+    "lon": 35.0769018809345
+  },
+  {
+    "date": "2024-11-28",
+    "title": "Russian Lancet attack on Kharkiv",
+    "city": "Kharkiv",
+    "direction": "Northeast",
+    "drone_type": "Lancet",
+    "drone_count": 4,
+    "lat": 50.05465499051267,
+    "lon": 36.40437862267176
+  },
+  {
+    "date": "2024-11-30",
+    "title": "Russian Lancet attack on Kharkiv",
+    "city": "Kharkiv",
+    "direction": "Northeast",
+    "drone_type": "Lancet",
+    "drone_count": 1,
+    "lat": 50.01986730335163,
+    "lon": 35.95194879976605
+  },
+  {
+    "date": "2024-11-30",
+    "title": "Russian FPV attack on Kherson",
+    "city": "Kherson",
+    "direction": "South",
+    "drone_type": "FPV",
+    "drone_count": 3,
+    "lat": 46.590270779506604,
+    "lon": 32.54558078350683
+  },
+  {
+    "date": "2024-12-01",
+    "title": "Russian Shahed attack on Odesa",
+    "city": "Odesa",
+    "direction": "South",
+    "drone_type": "Shahed",
+    "drone_count": 9,
+    "lat": 46.21387041618658,
+    "lon": 30.782316440338477
+  },
+  {
+    "date": "2024-12-03",
+    "title": "Russian Shahed attack on Kharkiv",
+    "city": "Kharkiv",
+    "direction": "Northeast",
+    "drone_type": "Shahed",
+    "drone_count": 16,
+    "lat": 49.7717154470398,
+    "lon": 36.44646149343447
+  },
+  {
+    "date": "2024-12-04",
+    "title": "Russian Shahed attack on Zaporizhzhia",
+    "city": "Zaporizhzhia",
+    "direction": "East",
+    "drone_type": "Shahed",
+    "drone_count": 28,
+    "lat": 47.54116498188757,
+    "lon": 35.406374010959894
+  },
+  {
+    "date": "2024-12-04",
+    "title": "Russian Missile attack on Odesa",
+    "city": "Odesa",
+    "direction": "South",
+    "drone_type": "Missile",
+    "drone_count": 12,
+    "lat": 46.560453997617856,
+    "lon": 30.432999387136057
+  },
+  {
+    "date": "2024-12-05",
+    "title": "Russian Ballistic attack on Dnipro",
+    "city": "Dnipro",
+    "direction": "East",
+    "drone_type": "Ballistic",
+    "drone_count": 3,
+    "lat": 48.26192640807061,
+    "lon": 35.147936960110655
+  },
+  {
+    "date": "2024-12-06",
+    "title": "Russian Shahed attack on Kyiv",
+    "city": "Kyiv",
+    "direction": "North",
+    "drone_type": "Shahed",
+    "drone_count": 33,
+    "lat": 50.37688382006254,
+    "lon": 30.489041210383608
+  },
+  {
+    "date": "2024-12-06",
+    "title": "Russian Shahed attack on Odesa",
+    "city": "Odesa",
+    "direction": "South",
+    "drone_type": "Shahed",
+    "drone_count": 32,
+    "lat": 46.619650322176405,
+    "lon": 30.78168165675022
+  },
+  {
+    "date": "2024-12-07",
+    "title": "Russian Shahed attack on Dnipro",
+    "city": "Dnipro",
+    "direction": "East",
+    "drone_type": "Shahed",
+    "drone_count": 10,
+    "lat": 48.7623144646378,
+    "lon": 34.98626396702255
+  },
+  {
+    "date": "2024-12-10",
+    "title": "Russian Shahed attack on Mykolaiv",
+    "city": "Mykolaiv",
+    "direction": "South",
+    "drone_type": "Shahed",
+    "drone_count": 21,
+    "lat": 47.02293227462437,
+    "lon": 31.963954175940273
+  },
+  {
+    "date": "2024-12-12",
+    "title": "Russian Shahed attack on Kyiv",
+    "city": "Kyiv",
+    "direction": "North",
+    "drone_type": "Shahed",
+    "drone_count": 33,
+    "lat": 50.429219974269785,
+    "lon": 30.360002785817798
+  },
+  {
+    "date": "2024-12-12",
+    "title": "Russian Shahed attack on Zaporizhzhia",
+    "city": "Zaporizhzhia",
+    "direction": "East",
+    "drone_type": "Shahed",
+    "drone_count": 12,
+    "lat": 48.06963288390652,
+    "lon": 34.87763967615115
+  },
+  {
+    "date": "2024-12-13",
+    "title": "Russian Lancet attack on Zaporizhzhia",
+    "city": "Zaporizhzhia",
+    "direction": "East",
+    "drone_type": "Lancet",
+    "drone_count": 3,
+    "lat": 47.97930667588054,
+    "lon": 35.02483758113453
+  },
+  {
+    "date": "2024-12-14",
+    "title": "Russian Missile attack on Lviv",
+    "city": "Lviv",
+    "direction": "Northwest",
+    "drone_type": "Missile",
+    "drone_count": 10,
+    "lat": 49.63345437014636,
+    "lon": 24.126403629496476
+  },
+  {
+    "date": "2024-12-17",
+    "title": "Russian Shahed attack on Kyiv",
+    "city": "Kyiv",
+    "direction": "North",
+    "drone_type": "Shahed",
+    "drone_count": 32,
+    "lat": 50.623189343105324,
+    "lon": 30.52336311393714
+  },
+  {
+    "date": "2024-12-18",
+    "title": "Russian FPV attack on Kharkiv",
+    "city": "Kharkiv",
+    "direction": "Northeast",
+    "drone_type": "FPV",
+    "drone_count": 2,
+    "lat": 49.84337430828394,
+    "lon": 36.08277656376506
+  },
+  {
+    "date": "2024-12-18",
+    "title": "Russian Lancet attack on Kharkiv",
+    "city": "Kharkiv",
+    "direction": "Northeast",
+    "drone_type": "Lancet",
+    "drone_count": 4,
+    "lat": 49.73613398840002,
+    "lon": 35.99360049020715
+  },
+  {
+    "date": "2024-12-19",
+    "title": "Russian Missile attack on Lviv",
+    "city": "Lviv",
+    "direction": "Northwest",
+    "drone_type": "Missile",
+    "drone_count": 2,
+    "lat": 49.96419959332761,
+    "lon": 24.16715674265291
+  },
+  {
+    "date": "2024-12-19",
+    "title": "Russian Shahed attack on Kyiv",
+    "city": "Kyiv",
+    "direction": "Northwest",
+    "drone_type": "Shahed",
+    "drone_count": 33,
+    "lat": 50.44442856370852,
+    "lon": 30.37453890926597
+  },
+  {
+    "date": "2024-12-21",
+    "title": "Russian Shahed attack on Kharkiv",
+    "city": "Kharkiv",
+    "direction": "Northeast",
+    "drone_type": "Shahed",
+    "drone_count": 9,
+    "lat": 49.85790605063318,
+    "lon": 36.3126989965549
+  },
+  {
+    "date": "2024-12-22",
+    "title": "Russian Shahed attack on Dnipro",
+    "city": "Dnipro",
+    "direction": "East",
+    "drone_type": "Shahed",
+    "drone_count": 14,
+    "lat": 48.69491783189327,
+    "lon": 35.179048179980775
+  },
+  {
+    "date": "2024-12-22",
+    "title": "Russian Ballistic attack on Dnipro",
+    "city": "Dnipro",
+    "direction": "East",
+    "drone_type": "Ballistic",
+    "drone_count": 2,
+    "lat": 48.40126897511973,
+    "lon": 35.182129692390845
+  },
+  {
+    "date": "2024-12-24",
+    "title": "Russian Shahed attack on Odesa",
+    "city": "Odesa",
+    "direction": "South",
+    "drone_type": "Shahed",
+    "drone_count": 40,
+    "lat": 46.464140425054296,
+    "lon": 30.465903045925533
+  },
+  {
+    "date": "2024-12-25",
+    "title": "Russian Shahed attack on Kharkiv",
+    "city": "Kharkiv",
+    "direction": "Northeast",
+    "drone_type": "Shahed",
+    "drone_count": 19,
+    "lat": 49.8846555868072,
+    "lon": 35.980843724624556
+  },
+  {
+    "date": "2024-12-29",
+    "title": "Russian Missile attack on Lviv",
+    "city": "Lviv",
+    "direction": "Northwest",
+    "drone_type": "Missile",
+    "drone_count": 7,
+    "lat": 49.85538711297915,
+    "lon": 24.02903566121576
+  },
+  {
+    "date": "2024-12-31",
+    "title": "Russian Ballistic attack on Poltava",
+    "city": "Poltava",
+    "direction": "Northeast",
+    "drone_type": "Ballistic",
+    "drone_count": 1,
+    "lat": 49.783411238869064,
+    "lon": 34.52816460012176
+  },
+  {
+    "date": "2025-01-01",
+    "title": "Russian Shahed attack on Odesa",
+    "city": "Odesa",
+    "direction": "South",
+    "drone_type": "Shahed",
+    "drone_count": 17,
+    "lat": 46.500406387855506,
+    "lon": 30.881479021322512
+  },
+  {
+    "date": "2025-01-02",
+    "title": "Russian Ballistic attack on Poltava",
+    "city": "Poltava",
+    "direction": "Northeast",
+    "drone_type": "Ballistic",
+    "drone_count": 8,
+    "lat": 49.83722572348318,
+    "lon": 34.690513094598074
+  },
+  {
+    "date": "2025-01-09",
+    "title": "Russian Shahed attack on Dnipro",
+    "city": "Dnipro",
+    "direction": "East",
+    "drone_type": "Shahed",
+    "drone_count": 39,
+    "lat": 48.35530302338544,
+    "lon": 34.843326660484706
+  },
+  {
+    "date": "2025-01-12",
+    "title": "Russian Missile attack on Odesa",
+    "city": "Odesa",
+    "direction": "South",
+    "drone_type": "Missile",
+    "drone_count": 4,
+    "lat": 46.59375722354673,
+    "lon": 30.81885176968301
+  },
+  {
+    "date": "2025-01-12",
+    "title": "Russian Missile attack on Lviv",
+    "city": "Lviv",
+    "direction": "Northwest",
+    "drone_type": "Missile",
+    "drone_count": 4,
+    "lat": 49.577338099356645,
+    "lon": 24.196798511855807
+  },
+  {
+    "date": "2025-01-14",
+    "title": "Russian Shahed attack on Zaporizhzhia",
+    "city": "Zaporizhzhia",
+    "direction": "East",
+    "drone_type": "Shahed",
+    "drone_count": 42,
+    "lat": 47.976862590059746,
+    "lon": 35.35687686692019
+  },
+  {
+    "date": "2025-01-14",
+    "title": "Russian Shahed attack on Kyiv",
+    "city": "Kyiv",
+    "direction": "North",
+    "drone_type": "Shahed",
+    "drone_count": 27,
+    "lat": 50.56011137827965,
+    "lon": 30.79034872022982
+  },
+  {
+    "date": "2025-01-15",
+    "title": "Russian Shahed attack on Dnipro",
+    "city": "Dnipro",
+    "direction": "East",
+    "drone_type": "Shahed",
+    "drone_count": 24,
+    "lat": 48.30200264467701,
+    "lon": 35.085363356111024
+  },
+  {
+    "date": "2025-01-17",
+    "title": "Russian Missile attack on Odesa",
+    "city": "Odesa",
+    "direction": "South",
+    "drone_type": "Missile",
+    "drone_count": 12,
+    "lat": 46.50621282106293,
+    "lon": 30.913605935586958
+  },
+  {
+    "date": "2025-01-17",
+    "title": "Russian Shahed attack on Sumy",
+    "city": "Sumy",
+    "direction": "North",
+    "drone_type": "Shahed",
+    "drone_count": 31,
+    "lat": 50.70717674933418,
+    "lon": 34.636147254516764
+  },
+  {
+    "date": "2025-01-19",
+    "title": "Russian Ballistic attack on Dnipro",
+    "city": "Dnipro",
+    "direction": "East",
+    "drone_type": "Ballistic",
+    "drone_count": 8,
+    "lat": 48.742475323672615,
+    "lon": 35.09402512312905
+  },
+  {
+    "date": "2025-01-20",
+    "title": "Russian Shahed attack on Kyiv",
+    "city": "Kyiv",
+    "direction": "Northwest",
+    "drone_type": "Shahed",
+    "drone_count": 23,
+    "lat": 50.31232746014459,
+    "lon": 30.80787590262093
+  },
+  {
+    "date": "2025-01-21",
+    "title": "Russian FPV attack on Kherson",
+    "city": "Kherson",
+    "direction": "South",
+    "drone_type": "FPV",
+    "drone_count": 5,
+    "lat": 46.50449745966512,
+    "lon": 32.33166057669698
+  },
+  {
+    "date": "2025-01-21",
+    "title": "Russian Shahed attack on Kyiv",
+    "city": "Kyiv",
+    "direction": "Northwest",
+    "drone_type": "Shahed",
+    "drone_count": 42,
+    "lat": 50.64033485613591,
+    "lon": 30.614161349523393
+  },
+  {
+    "date": "2025-01-22",
+    "title": "Russian Shahed attack on Kharkiv",
+    "city": "Kharkiv",
+    "direction": "Northeast",
+    "drone_type": "Shahed",
+    "drone_count": 26,
+    "lat": 50.08225923565787,
+    "lon": 36.34735573987577
+  },
+  {
+    "date": "2025-01-24",
+    "title": "Russian Missile attack on Lviv",
+    "city": "Lviv",
+    "direction": "Northwest",
+    "drone_type": "Missile",
+    "drone_count": 4,
+    "lat": 49.68191921232717,
+    "lon": 23.86405858810642
+  },
+  {
+    "date": "2025-01-25",
+    "title": "Russian Shahed attack on Dnipro",
+    "city": "Dnipro",
+    "direction": "East",
+    "drone_type": "Shahed",
+    "drone_count": 28,
+    "lat": 48.64512413591068,
+    "lon": 35.00734547256381
+  },
+  {
+    "date": "2025-01-26",
+    "title": "Russian Ballistic attack on Poltava",
+    "city": "Poltava",
+    "direction": "Northeast",
+    "drone_type": "Ballistic",
+    "drone_count": 2,
+    "lat": 49.70073801489973,
+    "lon": 34.78379549937487
+  },
+  {
+    "date": "2025-01-26",
+    "title": "Russian Shahed attack on Kyiv",
+    "city": "Kyiv",
+    "direction": "North",
+    "drone_type": "Shahed",
+    "drone_count": 9,
+    "lat": 50.347972604122745,
+    "lon": 30.468365206510022
+  },
+  {
+    "date": "2025-01-27",
+    "title": "Russian Shahed attack on Kyiv",
+    "city": "Kyiv",
+    "direction": "Northwest",
+    "drone_type": "Shahed",
+    "drone_count": 16,
+    "lat": 50.39613971252086,
+    "lon": 30.428277027796835
+  },
+  {
+    "date": "2025-01-27",
+    "title": "Russian Shahed attack on Dnipro",
+    "city": "Dnipro",
+    "direction": "East",
+    "drone_type": "Shahed",
+    "drone_count": 37,
+    "lat": 48.183109213350725,
+    "lon": 35.23337759846793
+  },
+  {
+    "date": "2025-01-29",
+    "title": "Russian FPV attack on Kherson",
+    "city": "Kherson",
+    "direction": "South",
+    "drone_type": "FPV",
+    "drone_count": 6,
+    "lat": 46.5338915385634,
+    "lon": 32.80907634200303
+  },
+  {
+    "date": "2025-02-04",
+    "title": "Russian Shahed attack on Kharkiv",
+    "city": "Kharkiv",
+    "direction": "Northeast",
+    "drone_type": "Shahed",
+    "drone_count": 38,
+    "lat": 50.21085317063053,
+    "lon": 36.35369353536688
+  },
+  {
+    "date": "2025-02-04",
+    "title": "Russian Shahed attack on Kharkiv",
+    "city": "Kharkiv",
+    "direction": "Northeast",
+    "drone_type": "Shahed",
+    "drone_count": 28,
+    "lat": 50.122649673894784,
+    "lon": 36.35074935331827
+  },
+  {
+    "date": "2025-02-05",
+    "title": "Russian FPV attack on Kherson",
+    "city": "Kherson",
+    "direction": "South",
+    "drone_type": "FPV",
+    "drone_count": 3,
+    "lat": 46.48201906672674,
+    "lon": 32.47357119974956
+  },
+  {
+    "date": "2025-02-06",
+    "title": "Russian Shahed attack on Mykolaiv",
+    "city": "Mykolaiv",
+    "direction": "South",
+    "drone_type": "Shahed",
+    "drone_count": 8,
+    "lat": 46.67517910101143,
+    "lon": 32.118185801250284
+  },
+  {
+    "date": "2025-02-06",
+    "title": "Russian Shahed attack on Sumy",
+    "city": "Sumy",
+    "direction": "North",
+    "drone_type": "Shahed",
+    "drone_count": 25,
+    "lat": 50.86298955538024,
+    "lon": 34.64710823016287
+  },
+  {
+    "date": "2025-02-06",
+    "title": "Russian Shahed attack on Dnipro",
+    "city": "Dnipro",
+    "direction": "East",
+    "drone_type": "Shahed",
+    "drone_count": 26,
+    "lat": 48.34353807077534,
+    "lon": 34.91168992358536
+  },
+  {
+    "date": "2025-02-06",
+    "title": "Russian Shahed attack on Sumy",
+    "city": "Sumy",
+    "direction": "North",
+    "drone_type": "Shahed",
+    "drone_count": 10,
+    "lat": 50.71379862090072,
+    "lon": 34.68047915211233
+  },
+  {
+    "date": "2025-02-06",
+    "title": "Russian Lancet attack on Zaporizhzhia",
+    "city": "Zaporizhzhia",
+    "direction": "East",
+    "drone_type": "Lancet",
+    "drone_count": 2,
+    "lat": 47.88199281916328,
+    "lon": 35.0357773781721
+  },
+  {
+    "date": "2025-02-06",
+    "title": "Russian Shahed attack on Sumy",
+    "city": "Sumy",
+    "direction": "North",
+    "drone_type": "Shahed",
+    "drone_count": 31,
+    "lat": 51.168251068317694,
+    "lon": 34.507327720703344
+  },
+  {
+    "date": "2025-02-07",
+    "title": "Russian Shahed attack on Kyiv",
+    "city": "Kyiv",
+    "direction": "North",
+    "drone_type": "Shahed",
+    "drone_count": 21,
+    "lat": 50.24438086170854,
+    "lon": 30.363759532763144
+  },
+  {
+    "date": "2025-02-08",
+    "title": "Russian Shahed attack on Kyiv",
+    "city": "Kyiv",
+    "direction": "Northwest",
+    "drone_type": "Shahed",
+    "drone_count": 35,
+    "lat": 50.278323098732514,
+    "lon": 30.34220500739942
+  },
+  {
+    "date": "2025-02-09",
+    "title": "Russian Ballistic attack on Dnipro",
+    "city": "Dnipro",
+    "direction": "East",
+    "drone_type": "Ballistic",
+    "drone_count": 7,
+    "lat": 48.175697640499294,
+    "lon": 34.871296111072226
+  },
+  {
+    "date": "2025-02-09",
+    "title": "Russian Ballistic attack on Dnipro",
+    "city": "Dnipro",
+    "direction": "East",
+    "drone_type": "Ballistic",
+    "drone_count": 7,
+    "lat": 48.30204837182101,
+    "lon": 34.94886341653083
+  },
+  {
+    "date": "2025-02-10",
+    "title": "Russian Shahed attack on Mykolaiv",
+    "city": "Mykolaiv",
+    "direction": "South",
+    "drone_type": "Shahed",
+    "drone_count": 17,
+    "lat": 47.1615817624236,
+    "lon": 31.997655397035714
+  },
+  {
+    "date": "2025-02-10",
+    "title": "Russian Lancet attack on Zaporizhzhia",
+    "city": "Zaporizhzhia",
+    "direction": "East",
+    "drone_type": "Lancet",
+    "drone_count": 4,
+    "lat": 48.054954646597714,
+    "lon": 35.243838738173544
+  },
+  {
+    "date": "2025-02-13",
+    "title": "Russian FPV attack on Kherson",
+    "city": "Kherson",
+    "direction": "South",
+    "drone_type": "FPV",
+    "drone_count": 4,
+    "lat": 46.70686431651046,
+    "lon": 32.54941004562428
+  },
+  {
+    "date": "2025-02-18",
+    "title": "Russian Shahed attack on Zaporizhzhia",
+    "city": "Zaporizhzhia",
+    "direction": "East",
+    "drone_type": "Shahed",
+    "drone_count": 41,
+    "lat": 47.804425665371056,
+    "lon": 34.884151423285395
+  },
+  {
+    "date": "2025-02-19",
+    "title": "Russian Shahed attack on Dnipro",
+    "city": "Dnipro",
+    "direction": "East",
+    "drone_type": "Shahed",
+    "drone_count": 24,
+    "lat": 48.40673454163445,
+    "lon": 34.77601252722736
+  },
+  {
+    "date": "2025-02-22",
+    "title": "Russian Shahed attack on Odesa",
+    "city": "Odesa",
+    "direction": "South",
+    "drone_type": "Shahed",
+    "drone_count": 13,
+    "lat": 46.479334292535654,
+    "lon": 30.497747423522487
+  },
+  {
+    "date": "2025-02-24",
+    "title": "Russian Shahed attack on Dnipro",
+    "city": "Dnipro",
+    "direction": "East",
+    "drone_type": "Shahed",
+    "drone_count": 10,
+    "lat": 48.43450550051559,
+    "lon": 34.948745333529594
+  },
+  {
+    "date": "2025-02-25",
+    "title": "Russian Missile attack on Lviv",
+    "city": "Lviv",
+    "direction": "Northwest",
+    "drone_type": "Missile",
+    "drone_count": 10,
+    "lat": 50.00275336674089,
+    "lon": 23.812102792410162
+  },
+  {
+    "date": "2025-02-25",
+    "title": "Russian Shahed attack on Dnipro",
+    "city": "Dnipro",
+    "direction": "East",
+    "drone_type": "Shahed",
+    "drone_count": 33,
+    "lat": 48.480064071307744,
+    "lon": 35.16253739783478
+  },
+  {
+    "date": "2025-02-25",
+    "title": "Russian Shahed attack on Mykolaiv",
+    "city": "Mykolaiv",
+    "direction": "South",
+    "drone_type": "Shahed",
+    "drone_count": 30,
+    "lat": 47.03868553477527,
+    "lon": 32.083582563570296
+  },
+  {
+    "date": "2025-02-25",
+    "title": "Russian Shahed attack on Kyiv",
+    "city": "Kyiv",
+    "direction": "North",
+    "drone_type": "Shahed",
+    "drone_count": 24,
+    "lat": 50.58187930755818,
+    "lon": 30.7197937808486
+  },
+  {
+    "date": "2025-02-25",
+    "title": "Russian Missile attack on Lviv",
+    "city": "Lviv",
+    "direction": "Northwest",
+    "drone_type": "Missile",
+    "drone_count": 1,
+    "lat": 49.61094666713345,
+    "lon": 23.738821875442834
+  },
+  {
+    "date": "2025-02-26",
+    "title": "Russian Shahed attack on Kyiv",
+    "city": "Kyiv",
+    "direction": "North",
+    "drone_type": "Shahed",
+    "drone_count": 19,
+    "lat": 50.46199660658249,
+    "lon": 30.576267945788373
+  },
+  {
+    "date": "2025-02-27",
+    "title": "Russian FPV attack on Kherson",
+    "city": "Kherson",
+    "direction": "South",
+    "drone_type": "FPV",
+    "drone_count": 5,
+    "lat": 46.81696826463219,
+    "lon": 32.367891491599735
+  },
+  {
+    "date": "2025-02-27",
+    "title": "Russian FPV attack on Kharkiv",
+    "city": "Kharkiv",
+    "direction": "Northeast",
+    "drone_type": "FPV",
+    "drone_count": 5,
+    "lat": 49.93135157339648,
+    "lon": 36.412270895880745
+  },
+  {
+    "date": "2025-03-02",
+    "title": "Russian Shahed attack on Kyiv",
+    "city": "Kyiv",
+    "direction": "Northwest",
+    "drone_type": "Shahed",
+    "drone_count": 27,
+    "lat": 50.28858906583429,
+    "lon": 30.787428525149174
+  },
+  {
+    "date": "2025-03-03",
+    "title": "Russian Lancet attack on Kharkiv",
+    "city": "Kharkiv",
+    "direction": "Northeast",
+    "drone_type": "Lancet",
+    "drone_count": 1,
+    "lat": 50.18410716089655,
+    "lon": 36.180491656805124
+  },
+  {
+    "date": "2025-03-03",
+    "title": "Russian Shahed attack on Odesa",
+    "city": "Odesa",
+    "direction": "South",
+    "drone_type": "Shahed",
+    "drone_count": 41,
+    "lat": 46.22472408772105,
+    "lon": 30.525002361104445
+  },
+  {
+    "date": "2025-03-03",
+    "title": "Russian Shahed attack on Kyiv",
+    "city": "Kyiv",
+    "direction": "Northwest",
+    "drone_type": "Shahed",
+    "drone_count": 22,
+    "lat": 50.44503343789426,
+    "lon": 30.268968115039616
+  },
+  {
+    "date": "2025-03-04",
+    "title": "Russian Shahed attack on Dnipro",
+    "city": "Dnipro",
+    "direction": "East",
+    "drone_type": "Shahed",
+    "drone_count": 22,
+    "lat": 48.32728395357584,
+    "lon": 34.866432660682364
+  },
+  {
+    "date": "2025-03-06",
+    "title": "Russian Ballistic attack on Dnipro",
+    "city": "Dnipro",
+    "direction": "East",
+    "drone_type": "Ballistic",
+    "drone_count": 1,
+    "lat": 48.425476721483335,
+    "lon": 34.78879761793702
+  },
+  {
+    "date": "2025-03-07",
+    "title": "Russian Shahed attack on Kyiv",
+    "city": "Kyiv",
+    "direction": "Northwest",
+    "drone_type": "Shahed",
+    "drone_count": 41,
+    "lat": 50.53848973390403,
+    "lon": 30.55664432918001
+  },
+  {
+    "date": "2025-03-08",
+    "title": "Russian FPV attack on Kherson",
+    "city": "Kherson",
+    "direction": "South",
+    "drone_type": "FPV",
+    "drone_count": 3,
+    "lat": 46.740148387414855,
+    "lon": 32.36183234644856
+  },
+  {
+    "date": "2025-03-10",
+    "title": "Russian Lancet attack on Zaporizhzhia",
+    "city": "Zaporizhzhia",
+    "direction": "East",
+    "drone_type": "Lancet",
+    "drone_count": 2,
+    "lat": 47.54903350155388,
+    "lon": 35.27102766626552
+  },
+  {
+    "date": "2025-03-10",
+    "title": "Russian Shahed attack on Kyiv",
+    "city": "Kyiv",
+    "direction": "North",
+    "drone_type": "Shahed",
+    "drone_count": 31,
+    "lat": 50.32978643624634,
+    "lon": 30.68031325365751
+  },
+  {
+    "date": "2025-03-11",
+    "title": "Russian Lancet attack on Kharkiv",
+    "city": "Kharkiv",
+    "direction": "Northeast",
+    "drone_type": "Lancet",
+    "drone_count": 3,
+    "lat": 50.031568627975936,
+    "lon": 36.02795359933194
+  },
+  {
+    "date": "2025-03-12",
+    "title": "Russian Shahed attack on Kyiv",
+    "city": "Kyiv",
+    "direction": "North",
+    "drone_type": "Shahed",
+    "drone_count": 13,
+    "lat": 50.57757761024974,
+    "lon": 30.755836452270184
+  },
+  {
+    "date": "2025-03-12",
+    "title": "Russian Missile attack on Odesa",
+    "city": "Odesa",
+    "direction": "South",
+    "drone_type": "Missile",
+    "drone_count": 1,
+    "lat": 46.70130094983094,
+    "lon": 30.771523442139745
+  },
+  {
+    "date": "2025-03-12",
+    "title": "Russian Shahed attack on Sumy",
+    "city": "Sumy",
+    "direction": "North",
+    "drone_type": "Shahed",
+    "drone_count": 33,
+    "lat": 50.86894513900195,
+    "lon": 34.51352242273177
+  },
+  {
+    "date": "2025-03-12",
+    "title": "Russian Missile attack on Lviv",
+    "city": "Lviv",
+    "direction": "Northwest",
+    "drone_type": "Missile",
+    "drone_count": 10,
+    "lat": 50.006341966283856,
+    "lon": 24.25694322966881
+  },
+  {
+    "date": "2025-03-14",
+    "title": "Russian Shahed attack on Mykolaiv",
+    "city": "Mykolaiv",
+    "direction": "South",
+    "drone_type": "Shahed",
+    "drone_count": 20,
+    "lat": 47.05076745344225,
+    "lon": 31.778009709397054
+  },
+  {
+    "date": "2025-03-14",
+    "title": "Russian Lancet attack on Kharkiv",
+    "city": "Kharkiv",
+    "direction": "Northeast",
+    "drone_type": "Lancet",
+    "drone_count": 2,
+    "lat": 49.723945247481346,
+    "lon": 36.425846404853495
+  },
+  {
+    "date": "2025-03-19",
+    "title": "Russian Shahed attack on Kharkiv",
+    "city": "Kharkiv",
+    "direction": "Northeast",
+    "drone_type": "Shahed",
+    "drone_count": 21,
+    "lat": 49.750930276465574,
+    "lon": 36.516416400501896
+  },
+  {
+    "date": "2025-03-19",
+    "title": "Russian FPV attack on Kherson",
+    "city": "Kherson",
+    "direction": "South",
+    "drone_type": "FPV",
+    "drone_count": 4,
+    "lat": 46.54047541937924,
+    "lon": 32.485423107391256
+  },
+  {
+    "date": "2025-03-21",
+    "title": "Russian Lancet attack on Kharkiv",
+    "city": "Kharkiv",
+    "direction": "Northeast",
+    "drone_type": "Lancet",
+    "drone_count": 4,
+    "lat": 49.780809357144356,
+    "lon": 36.36788093751518
+  },
+  {
+    "date": "2025-03-21",
+    "title": "Russian FPV attack on Kharkiv",
+    "city": "Kharkiv",
+    "direction": "Northeast",
+    "drone_type": "FPV",
+    "drone_count": 3,
+    "lat": 50.088277447007144,
+    "lon": 36.26018002166771
+  },
+  {
+    "date": "2025-03-21",
+    "title": "Russian Missile attack on Odesa",
+    "city": "Odesa",
+    "direction": "South",
+    "drone_type": "Missile",
+    "drone_count": 4,
+    "lat": 46.454228237872606,
+    "lon": 30.750517719503144
+  },
+  {
+    "date": "2025-03-21",
+    "title": "Russian Shahed attack on Zaporizhzhia",
+    "city": "Zaporizhzhia",
+    "direction": "East",
+    "drone_type": "Shahed",
+    "drone_count": 41,
+    "lat": 47.6217101762771,
+    "lon": 35.18211915117206
+  },
+  {
+    "date": "2025-03-21",
+    "title": "Russian Shahed attack on Kharkiv",
+    "city": "Kharkiv",
+    "direction": "Northeast",
+    "drone_type": "Shahed",
+    "drone_count": 42,
+    "lat": 50.04716481182368,
+    "lon": 36.27842571071448
+  },
+  {
+    "date": "2025-03-25",
+    "title": "Russian Shahed attack on Dnipro",
+    "city": "Dnipro",
+    "direction": "East",
+    "drone_type": "Shahed",
+    "drone_count": 40,
+    "lat": 48.36284512405555,
+    "lon": 34.76581304476033
+  },
+  {
+    "date": "2025-03-27",
+    "title": "Russian Lancet attack on Zaporizhzhia",
+    "city": "Zaporizhzhia",
+    "direction": "East",
+    "drone_type": "Lancet",
+    "drone_count": 2,
+    "lat": 47.643517569638504,
+    "lon": 35.1594094838664
+  },
+  {
+    "date": "2025-03-28",
+    "title": "Russian Shahed attack on Kharkiv",
+    "city": "Kharkiv",
+    "direction": "Northeast",
+    "drone_type": "Shahed",
+    "drone_count": 15,
+    "lat": 50.00424495401977,
+    "lon": 35.96016169251234
+  },
+  {
+    "date": "2025-03-29",
+    "title": "Russian Shahed attack on Zaporizhzhia",
+    "city": "Zaporizhzhia",
+    "direction": "East",
+    "drone_type": "Shahed",
+    "drone_count": 41,
+    "lat": 47.92377084310001,
+    "lon": 34.98559860141815
+  },
+  {
+    "date": "2025-03-29",
+    "title": "Russian Shahed attack on Kyiv",
+    "city": "Kyiv",
+    "direction": "Northwest",
+    "drone_type": "Shahed",
+    "drone_count": 39,
+    "lat": 50.30237365565104,
+    "lon": 30.60505795075651
+  },
+  {
+    "date": "2025-03-29",
+    "title": "Russian Shahed attack on Mykolaiv",
+    "city": "Mykolaiv",
+    "direction": "South",
+    "drone_type": "Shahed",
+    "drone_count": 30,
+    "lat": 46.96925564025069,
+    "lon": 31.894968617871758
+  },
+  {
+    "date": "2025-03-31",
+    "title": "Russian FPV attack on Kharkiv",
+    "city": "Kharkiv",
+    "direction": "Northeast",
+    "drone_type": "FPV",
+    "drone_count": 3,
+    "lat": 50.267690713610115,
+    "lon": 36.33670098366102
+  },
+  {
+    "date": "2025-04-01",
+    "title": "Russian Shahed attack on Odesa",
+    "city": "Odesa",
+    "direction": "South",
+    "drone_type": "Shahed",
+    "drone_count": 11,
+    "lat": 46.7110768484407,
+    "lon": 30.8945152763696
+  },
+  {
+    "date": "2025-04-03",
+    "title": "Russian Shahed attack on Kyiv",
+    "city": "Kyiv",
+    "direction": "Northwest",
+    "drone_type": "Shahed",
+    "drone_count": 21,
+    "lat": 50.689190484826575,
+    "lon": 30.73314866092572
+  },
+  {
+    "date": "2025-04-04",
+    "title": "Russian Shahed attack on Kharkiv",
+    "city": "Kharkiv",
+    "direction": "Northeast",
+    "drone_type": "Shahed",
+    "drone_count": 19,
+    "lat": 50.234605167631756,
+    "lon": 36.022232688243705
+  },
+  {
+    "date": "2025-04-04",
+    "title": "Russian Shahed attack on Kyiv",
+    "city": "Kyiv",
+    "direction": "Northwest",
+    "drone_type": "Shahed",
+    "drone_count": 39,
+    "lat": 50.47449513531311,
+    "lon": 30.403113744115608
+  },
+  {
+    "date": "2025-04-05",
+    "title": "Russian Lancet attack on Kharkiv",
+    "city": "Kharkiv",
+    "direction": "Northeast",
+    "drone_type": "Lancet",
+    "drone_count": 3,
+    "lat": 49.7596223253605,
+    "lon": 36.37236448532291
+  },
+  {
+    "date": "2025-04-05",
+    "title": "Russian Lancet attack on Kharkiv",
+    "city": "Kharkiv",
+    "direction": "Northeast",
+    "drone_type": "Lancet",
+    "drone_count": 3,
+    "lat": 50.092338755114994,
+    "lon": 36.033788789911526
+  },
+  {
+    "date": "2025-04-07",
+    "title": "Russian Missile attack on Lviv",
+    "city": "Lviv",
+    "direction": "Northwest",
+    "drone_type": "Missile",
+    "drone_count": 11,
+    "lat": 50.1014245557627,
+    "lon": 23.93315089921366
+  },
+  {
+    "date": "2025-04-09",
+    "title": "Russian Shahed attack on Odesa",
+    "city": "Odesa",
+    "direction": "South",
+    "drone_type": "Shahed",
+    "drone_count": 33,
+    "lat": 46.203838698892646,
+    "lon": 30.666937991143058
+  },
+  {
+    "date": "2025-04-09",
+    "title": "Russian Lancet attack on Kharkiv",
+    "city": "Kharkiv",
+    "direction": "Northeast",
+    "drone_type": "Lancet",
+    "drone_count": 4,
+    "lat": 49.76806627044418,
+    "lon": 36.50679933121533
+  },
+  {
+    "date": "2025-04-09",
+    "title": "Russian Shahed attack on Sumy",
+    "city": "Sumy",
+    "direction": "North",
+    "drone_type": "Shahed",
+    "drone_count": 40,
+    "lat": 50.783192556658506,
+    "lon": 34.98164866445079
+  },
+  {
+    "date": "2025-04-10",
+    "title": "Russian Ballistic attack on Dnipro",
+    "city": "Dnipro",
+    "direction": "East",
+    "drone_type": "Ballistic",
+    "drone_count": 2,
+    "lat": 48.214491962014144,
+    "lon": 35.13031192811503
+  },
+  {
+    "date": "2025-04-11",
+    "title": "Russian Shahed attack on Zaporizhzhia",
+    "city": "Zaporizhzhia",
+    "direction": "East",
+    "drone_type": "Shahed",
+    "drone_count": 29,
+    "lat": 47.706623805389775,
+    "lon": 35.11079027050578
+  },
+  {
+    "date": "2025-04-14",
+    "title": "Russian Ballistic attack on Dnipro",
+    "city": "Dnipro",
+    "direction": "East",
+    "drone_type": "Ballistic",
+    "drone_count": 8,
+    "lat": 48.748987362925625,
+    "lon": 35.069336653877535
+  },
+  {
+    "date": "2025-04-17",
+    "title": "Russian Shahed attack on Kharkiv",
+    "city": "Kharkiv",
+    "direction": "Northeast",
+    "drone_type": "Shahed",
+    "drone_count": 37,
+    "lat": 50.23013612321043,
+    "lon": 36.05030322236418
+  },
+  {
+    "date": "2025-04-17",
+    "title": "Russian Ballistic attack on Poltava",
+    "city": "Poltava",
+    "direction": "Northeast",
+    "drone_type": "Ballistic",
+    "drone_count": 3,
+    "lat": 49.65675328621232,
+    "lon": 34.397105673557064
+  },
+  {
+    "date": "2025-04-21",
+    "title": "Russian Shahed attack on Dnipro",
+    "city": "Dnipro",
+    "direction": "East",
+    "drone_type": "Shahed",
+    "drone_count": 34,
+    "lat": 48.29738439771567,
+    "lon": 35.06212333410179
+  },
+  {
+    "date": "2025-04-23",
+    "title": "Russian Shahed attack on Kyiv",
+    "city": "Kyiv",
+    "direction": "North",
+    "drone_type": "Shahed",
+    "drone_count": 13,
+    "lat": 50.26834951264619,
+    "lon": 30.52050232931634
+  },
+  {
+    "date": "2025-04-23",
+    "title": "Russian Shahed attack on Kharkiv",
+    "city": "Kharkiv",
+    "direction": "Northeast",
+    "drone_type": "Shahed",
+    "drone_count": 41,
+    "lat": 50.14670750293277,
+    "lon": 36.3588819837126
+  },
+  {
+    "date": "2025-04-24",
+    "title": "Russian Shahed attack on Kyiv",
+    "city": "Kyiv",
+    "direction": "North",
+    "drone_type": "Shahed",
+    "drone_count": 23,
+    "lat": 50.4652370769553,
+    "lon": 30.68159447460909
+  },
+  {
+    "date": "2025-04-24",
+    "title": "Russian Shahed attack on Kharkiv",
+    "city": "Kharkiv",
+    "direction": "Northeast",
+    "drone_type": "Shahed",
+    "drone_count": 35,
+    "lat": 49.91415656192655,
+    "lon": 36.17931554298958
+  },
+  {
+    "date": "2025-04-25",
+    "title": "Russian Shahed attack on Dnipro",
+    "city": "Dnipro",
+    "direction": "East",
+    "drone_type": "Shahed",
+    "drone_count": 32,
+    "lat": 48.54265590289338,
+    "lon": 35.255026723969245
+  },
+  {
+    "date": "2025-04-27",
+    "title": "Russian Lancet attack on Kharkiv",
+    "city": "Kharkiv",
+    "direction": "Northeast",
+    "drone_type": "Lancet",
+    "drone_count": 2,
+    "lat": 49.73561275781082,
+    "lon": 36.37042607368392
+  }
+]
